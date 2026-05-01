@@ -1,0 +1,100 @@
+{
+  "chapter": 7,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第6章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "禁止靠巧合直接翻案"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书分五卷，情绪不是线性抬高，而是“急拆雷—深挖根—外扩局—正面对撞—清算立新”的层层转调。第一卷的主题是“灭门从一场体面宴席开始”。情绪上必须极快发动，开局就把谢绒绒看见的抄家碎片、春宴将至的不祥感、她第一次拼命胡闹拆局并意外验证未来的有效性连成一口气，读感要鲜亮、慌张、密集，前段靠幼崽反差和即时避险抓人，中段靠长辈从不信到迟疑的转变抬升，卷尾则要让读者明白：春宴只是开刀口，不是全局终点。第二卷的主题是“家里先别烂，才有资格对外翻案”。情绪从表面缓和转为内里绷紧，爽感主要来自内鬼筛查、内宅外院重整、以旧规破旧规，既有抓到破绽的小胜，也有家人间因是否该撕破体面而产生的冲撞，整体像在安静屋子里一点点摸出藏针。第三卷的主题是“旧案不是过去，是正在追来的刀”。这一卷情绪更开阔，调查从府内走向外部，边军旧部、账册流向、证人存亡、官场站队逐步牵出更大朝局，爽点从家庭防守升级为主动出击，但同时也会出现一次明显的误判或提前暴露，让谢家意识到自己不是在和单个敌人斗，而是在碰一张已经铺开的网。第四卷的主题是“谁先上桌，谁就可能被吃掉”。情绪进入最强对撞期，宅斗几乎让位于公开博弈，谢家开始反设局、放风、引蛇出洞，裴行舟与其背后的利益链也真正露出獠牙，连环反扑、关键人物倒戈、证据链断又续的压迫感要足。第五卷的主题是“洗冤不是回到从前，而是换一种活法”。情绪由险转冷，由冷转亮，不再只是证明谢家无罪，而是追问谁该为这套拿人填坑的规则付账。最终的爽感来自名分归位、真相公开、仇怨清算，也来自谢家内部完成真正的更新：他们不再只是被动幸存者，而是经历过悬崖之后重建自身秩序的人。"
+    },
+    {
+      "source": "runtime/hook_debt#H001",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H001（主线危机，主要旧债，已开6章） | 读者承诺：第一卷至第五卷持续回收 | 种于第0章：那只“看不见的手”存在感显著增强"
+    },
+    {
+      "source": "runtime/hook_debt#H002",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H002（证据链，主要旧债，已开6章） | 读者承诺：第二卷、第三卷 | 种于第0章：证据数量激增，但仍偏旁证，缺锁箱与主使直证"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 冲突由“追箱”进一步升级为“对方反向控场”：谢家虽在河埠抓到卖饼婆子、拿到陆家车行木牌、确认锁箱曾换船并途经过此，但对方同时以灰棚小车投下黑布空壳与碎乌木珠，公开示意己方全程被监看、追查节奏已被预判；因此当务之急从单纯追箱转为揪出谢府内部接应与运输链枢纽，否则外线再追仍会被牵着走"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 回府后立即封紧谢府门禁，深查近三个月与陆家车行有关的采办、出入门路与接应人；审卖饼婆子、脚夫及河埠名录，同时派人守西支口，顺“换船—空壳诱导—府内开门人”三线继续追查真正锁箱与旧账去向"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 谢绒绒持续高度惊惧、嗓哑体虚、几近透支，在河埠现场仍连续完成高价值辨认：认出青绸套袖关联春宴端茶婢子、识别相同绳结、锁定卖饼婆子与春宴/谢府踩点者为同一人、提前判断灰棚黑布包内已是空壳；其示警能力从“被正式采信”进一步升级为能直接左右现场抓捕与推断敌方节奏的核心依据"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 锁箱本体仍失，河道转船已完成且对方故意放出空壳扰视线；当前抓到的卖饼婆子与脚夫疑似仍属执行层，背后主使熟悉两府路径、能预判谢家追查方向；夜间追线受时辰、水路复杂与不能惊动全城所限，且谢绒绒体力已逼近极限"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "主线危机 | progressing | 第一卷至第五卷持续回收 | endgame | 那只“看不见的手”存在感显著增强"
+    },
+    {
+      "source": "story/pending_hooks.md#H007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "家族关系 | progressing | 第一卷至第五卷持续回收 | slow-burn | 从采信升级为情感性托底与行动性依赖"
+    },
+    {
+      "source": "story/pending_hooks.md#H009",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "政治选择 | progressing | 第四卷、第五卷 | slow-burn | 尚未实锤站队，但运输网络已不止普通内宅手段"
+    },
+    {
+      "source": "story/pending_hooks.md#H010",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "终局冤案 | progressing | 第五卷 | endgame | 旧案核心实物更近，但本体仍失"
+    },
+    {
+      "source": "story/pending_hooks.md#H002",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "证据链 | progressing | 第二卷、第三卷 | mid-arc | 证据数量激增，但仍偏旁证，缺锁箱与主使直证"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "宅斗/内鬼 | progressing | 第二卷 | near-term | “谁在替他开门”成为下一阶段核心问题"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人物悬念 | progressing | 第三卷 | slow-burn | 可与既有戴帷帽妇人/更高主使并线"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "反派布局 | progressing | 待后续明确 | slow-burn | 已显出运输、盯梢、误导三层功能分工"
+    }
+  ]
+}

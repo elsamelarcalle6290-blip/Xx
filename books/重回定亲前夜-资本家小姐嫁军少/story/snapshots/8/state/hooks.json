@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "暗线接头",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顾家旧账/寄存物被正式认账并牵出完整苏家旧案",
+      "payoffTiming": "mid-arc",
+      "notes": "接头阶段已进入“认账条件核验”层，后续关键转向冯家与断句"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "物证/文书",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "找到旧账转页断句，补齐认账条件",
+      "payoffTiming": "near-term",
+      "notes": "纸只现场看过，仍依赖苏晚棠记忆；信息脆弱性持续存在"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "监视网络",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顺藤摸出周家盯梢执行层与更深外线",
+      "payoffTiming": "mid-arc",
+      "notes": "已从“可疑跟梢”升级为“街道口公开留痕的人证事件”"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "家族内部阴影",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "揭出苏家内部真正动过根基、接触祖父私匣的人及其动机",
+      "payoffTiming": "mid-arc",
+      "notes": "嫌疑范围明显收束到三叔/旧管事层，不再只是抽象内鬼"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 0,
+      "type": "人名线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "弄清冯家立场并完成与其接触/认账",
+      "payoffTiming": "near-term",
+      "notes": "“先邵后冯”的顺序陷阱已说明白，但冯家仍未出场"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "证人布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "街道据此对周家进行正式问责或形成更强保护",
+      "payoffTiming": "near-term",
+      "notes": "制度战拼图大幅充实，已不止单一口供"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "旧铜扣来历",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "旧铜扣背后完整旧约、寄存体系及识别链被揭开",
+      "payoffTiming": "mid-arc",
+      "notes": "铜扣地位从“可疑旧物”升格为认账核心物证"
+    }
+  ]
+}

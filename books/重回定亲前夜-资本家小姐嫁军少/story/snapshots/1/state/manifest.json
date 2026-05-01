@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 1,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H001:lastAdvancedChapter normalized from \"第1章：女主重生苏醒并以完整前世惨死记忆做出第一轮改局行动\" to 0",
+    "H002:lastAdvancedChapter normalized from \"第1章：苏晚棠找到两张房契、蓝皮账册、票据存单、十几枚银元、两根金条、私印，并完成初步转移藏匿\" to 0",
+    "H003:lastAdvancedChapter normalized from \"第1章：女主当面宣布婚事要缓，并准备去街道办以守孝/财物未清为由压住流程\" to 0",
+    "H004:lastAdvancedChapter normalized from \"无推进\" to 0",
+    "H005:lastAdvancedChapter normalized from \"无推进\" to 0",
+    "H006:lastAdvancedChapter normalized from \"第1章：李婶被验证为可初步托付之人；苏晚棠明确苏家旧仆、亲戚多不可信\" to 0",
+    "H007:lastAdvancedChapter normalized from \"无推进\" to 0",
+    "H008:lastAdvancedChapter normalized from \"第1章：周母、周明川明确知道苏家有账本、钥匙、票证等资源，且对城南旧款有所了解\" to 0",
+    "H009:lastAdvancedChapter normalized from \"第1章：苏父留信揭示城南码头顾家旧款与人情，只认账册、信物与旧主凭据\" to 0",
+    "H010:lastAdvancedChapter normalized from \"无推进\" to 0",
+    "H011:lastAdvancedChapter normalized from \"第1章：李婶出手帮藏物并陪同办事，女主开始建立重生后第一层现实盟友网络\" to 0",
+    "H012:status normalized from \"已埋设\" to \"open\"",
+    "H012:lastAdvancedChapter normalized from \"第1章结尾：女主明确下一步将去城南码头见顾家\" to 0"
+  ]
+}

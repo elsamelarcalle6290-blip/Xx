@@ -1,0 +1,45 @@
+{
+  "chapter": 7,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第6章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "无逻辑巧合推动核心剧情"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书适合分为五卷，情绪上层层抬升，不走平推路线。第一卷的主题是“抢命与换局”，情绪核心是急、狠、险。女主重生回定亲前夜，既要立刻确认自己回来了，也要在最短时间内拿走前世会被人一点点榨干的家底与关键凭据，再利用婚事转向完成命运切轨。这一卷的爽点来自预判式打脸和争分夺秒的抢先手，压迫感极强，但每次反击都要见血见效，形成高频小高潮。第二卷的主题是“进院立足”，情绪从紧绷转向暗流汹涌。婚后进入军属大院，女主面对的不是明火执仗的掠夺，而是试探、排斥、比较和闲言碎语，她要把“资本家小姐”“只会花钱”的标签扳成“会过日子、能解决问题、值得深交”，爽感更偏生活反转和团宠养成，同时情感线进入从防备到松动的阶段。"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 今晚亥时前在不暴露纸条与信物的前提下，改赴北货场旧磅房完成顾家线接头；同时继续留在街道登记范围内，配合未来三日核验，坐实苏家宅产与旧物被“亲眷代管/转移”的问题并压死周家、王桂香的说辞"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 苏晚棠受寒未愈且明显加重，背上发冷、额头发烫，久站脚步发虚，冷汗浸背，强压咳嗽后在巷中剧烈咳喘；她仍持有街道办受理回执、刻“顾”的黑扣、成对中的那枚发黑旧铜扣，以及新收到的改线纸条。下午已配合刘干事核旧册、认附页异常转记，并随街道走访两户老街坊，取得关于王桂香、周家搬走红漆箱和账册的新增口供线索"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 街道已明确苏晚棠今后三日需在登记范围内配合核验，谁替她代答都会被记一笔，这保护了她也束缚了她行动半径；婚约未解除，周家仍可继续以名声、长辈、茶馆议论施压；旧册出现“暂由亲眷代管，待女归宁后再议”的异常转记，但字迹与手印尚未锁定具体责任人；顾家线再次临场改线，且开始要求验她贴身旧铜扣，说明接头门槛更高、风险更大；灰呢子盯梢已贴到茶馆外，周家与暗线监视可能交叉；苏晚棠身体继续下滑，夜间独自行动危险陡增"
+    }
+  ]
+}

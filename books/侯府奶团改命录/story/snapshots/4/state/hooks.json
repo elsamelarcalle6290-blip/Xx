@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "endgame",
+      "notes": "“体面宴席开刀口”被进一步坐实，真正主使仍藏在后手"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第二卷、第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "证据更完整，但关键完整账物已被提前掏空"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "宅斗/内鬼",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第二卷",
+      "payoffTiming": "near-term",
+      "notes": "已明显是内外院协同的执行网络，不再只是单一丫鬟问题"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "人物悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "slow-burn",
+      "notes": "执行层浮出，主脑仍隐"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "反派布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待后续明确",
+      "payoffTiming": "slow-burn",
+      "notes": "一石二鸟：同时打谢家清名与物证根基"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "slow-burn",
+      "notes": "谢绒绒从“重要示警源”进一步迈向“被家中核心决策正式采纳”"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "政治/名誉战的代价与站队意味更鲜明"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "离终局真相更近一步，但离能翻案仍很远"
+    }
+  ]
+}

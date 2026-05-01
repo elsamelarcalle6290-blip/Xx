@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "家人对谢绒绒判断的持续采信与护持",
+      "payoffTiming": "slow-burn",
+      "notes": "谢老太太在绒绒重病强撑的情况下仍让她参与审讯、采纳其“梅”字判断，并同意她带病去前厅应对裴家，祖孙已形成公开协同办事的稳定模式。"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "裴家不止递春宴帖子，还在当夜第二次上门，由裴公子亲自送衣样册子，明面介入力度显著升级；其到底是施压、探病、验谢府反应，仍未分明。"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "药料被证实可用于刷麻布与纸壳、遮掩异味，说明谢府流出的包袱/盒子不只是换封伪装，还可能承担掩味转运功能，离“被栽赃之物如何安全流转”更近一步。"
+    },
+    {
+      "hookId": "location-mystery-查清后角门外-新泥来车的来-去向及其与湿",
+      "startChapter": 9,
+      "type": "location-mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "查清后角门外新泥来车的来处、去向及其与湿包袱/小漆盒是否有关",
+      "payoffTiming": "near-term",
+      "notes": "下游链条由绣坊进一步延伸到梅平码头仓、梅水巷、小埠与灯号接船；同时新增“观音庙外年轻人递车牌调车”信息，上游来源与调度中枢仍未明。"
+    },
+    {
+      "hookId": "mystery-查明-你们院里熬药-的罐",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "查明‘你们院里熬药的罐’究竟对应谁、是否与昨夜转运和药香有关",
+      "payoffTiming": "near-term",
+      "notes": "缺药单与许娘子口供对上，确认黄柏、苦参、白鲜皮、樟脑末等被碾粉混水，用于刷麻布纸壳以遮味防虫；但真正要遮掩的物品仍未知。"
+    },
+    {
+      "hookId": "mystery-查明戴帷帽妇-南巷去向与小-漆盒的最终落",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "查明戴帷帽妇人、南巷去向与小漆盒的最终落点",
+      "payoffTiming": "mid-arc",
+      "notes": "戴帷帽妇人被进一步锁定为绣坊后窗送货并参与碾药的执行层，货物终点暂收束到灰旗小船/梅系码头节点；妇人身份与小漆盒最终落点仍未揭开。"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "揪出府内外联动的幕后布局者",
+      "payoffTiming": "endgame",
+      "notes": "本章确认这张网分段运作：府内借牌递物、观音庙外递车牌、南巷换封、码头挂灯接船，各段只认上一段；刀疤男对裴家反应陌生，反证更上层操盘者仍在其认知之外。"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 12,
+      "expectedPayoff": "用车册、口供、纸条与物证拼出完整转运链",
+      "payoffTiming": "mid-arc",
+      "notes": "在既有车册、口供、湿纸条基础上，补出药料遮味用途、“海”字修正为“梅”、梅平码头仓/梅水巷/小埠及白灯青灯红芯灯的接应规则，证据链已从府门延至码头灯号系统。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": 10,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "暖阁（由后角门外查车后转回内院），府外新焦点为南巷绣坊",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "谢绒绒仍虚弱、脚下发虚、咳嗽见甜、指尖发颤，但现场勘验与追问能力进一步坐实；得到谢老太太公开护持，判断权威显著提升",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "顺着后角门来车、药包与小漆盒转运线，彻查南巷绣坊及府内二房/药房/后角门值夜链，揪出府内外联动接应者",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "身体虚弱未解；现有关键证据仍多为口供与现场旁证，湿字条尚未见实物；王嬷嬷虽招认递送但未供出更上层人物；二夫人是否知情仍未坐实；线索已延伸到府外，调查难度升级",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "我方为谢绒绒、谢老太太、青杏、林管事；王嬷嬷已实锤为内应执行层并被分关，小菱成为口供突破口；二夫人处于高危嫌疑位但知情程度未明；外部接应线指向南巷绣坊及未知上层人物",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "府内内鬼已从怀疑转为实证，谢家必须在撕破二房体面与扩大外查之间迅速决断；内院暗查正式外扩到府外接应网络",
+      "validFromChapter": 10,
+      "validUntilChapter": null,
+      "sourceChapter": 10
+    }
+  ]
+}

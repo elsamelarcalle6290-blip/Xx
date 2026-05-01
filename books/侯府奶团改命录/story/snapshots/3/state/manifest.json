@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 3,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H001:lastAdvancedChapter normalized from \"第2章：谢家正式执行“明修栈道、暗换路径”的赴宴方案，且在赴宴途中即遭试探，证明春宴危险已从预警进入实操碰撞\" to 0",
+    "H002:lastAdvancedChapter normalized from \"第2章：梦中“黑漆缺角木印”“账在水里”“北字”均在现实得到强化验证，查出受潮账册、缺角印痕及夹层半截“北仓”旧补记\" to 0",
+    "H003:lastAdvancedChapter normalized from \"第2章：秋棠供词仍可疑；采办房归档线浮出陈典、阿寿、元喜；锦福记与宁安侯府来人反复探问箱匣；内鬼范围由后宅扩至采办房与外部接头\" to 0",
+    "H004:lastAdvancedChapter normalized from \"第2章：秋棠仍在被问时下意识看周妈妈，但周妈妈本章执行命令稳妥、无明显遮掩，嫌疑暂未坐实\" to 0",
+    "H006:lastAdvancedChapter normalized from \"第2章：敌方连续通过宁安侯府、铺子、街面茶肆和路障等多层触点确认谢家带何物出门，并疑似在堵路混乱中夺取/转移纸张\" to 0",
+    "H007:lastAdvancedChapter normalized from \"第2章：谢承钧明确把谢绒绒的话当风险情报，夫妻联手设局；谢绒绒开始理解大人也会“下钩子”\" to 0",
+    "H009:lastAdvancedChapter normalized from \"第2章：“北仓”旧补记与谢承钧去借旧档相连，众人意识到被盯的可能不是宴席礼数，而是谢家手中可能递出去的旧账材料\" to 0",
+    "H010:lastAdvancedChapter normalized from \"第2章：半截“北仓”旧补记从采办房账册夹层中被抽出，显出旧年出入补记可能与谢家后续大案、旧年军需/仓储问题有关\" to 0",
+    "H001:lastAdvancedChapter normalized from \"第3章春宴现场正式爆雷：谢家旧账被藏入荣安侯府暖厅屏后，现场关门封查，谢府采办房又突遭失火\" to 0",
+    "H002:lastAdvancedChapter normalized from \"第3章取得半张湿账页、“北仓”字样、不完整缺角印痕、药担夹层中的湿烂封皮与黑漆缺角木片\" to 0",
+    "H003:lastAdvancedChapter normalized from \"第3章侯府内出现绿衣丫鬟、兰汀、厨房/茶房传话链，谢府内采办房同时失火，内鬼范围从谢府延展到外府配合链\" to 0",
+    "H004:lastAdvancedChapter normalized from \"第3章新增“灰帕、瘦脸、左耳下黑痣”的跑腿人描述，药担人与路上扶箱者高度疑似同线，但主使仍隐于幕后\" to 0",
+    "H006:lastAdvancedChapter normalized from \"第3章布局呈现出“路上试探箱子—宴中转运账页—后门接头—府内失火灭证”的连续动作\" to 0",
+    "H007:lastAdvancedChapter normalized from \"第3章谢家长辈已把绒绒的预警当作实质判断依据，谢夫人公开护持、谢二爷即时配合、谢大爷据此定局\" to 0",
+    "H009:lastAdvancedChapter normalized from \"第3章谢家旧账被故意放在高门春宴场合引爆，说明此案不仅为家宅暗害，更可能意在舆论与官面做实\" to 0",
+    "H010:lastAdvancedChapter normalized from \"第3章“北仓”旧账、缺角印痕与黑漆木片同步出现，旧案锚点从单条补记扩大到账册体系与印记体系\" to 0"
+  ]
+}

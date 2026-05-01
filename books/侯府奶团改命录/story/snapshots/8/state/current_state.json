@@ -1,0 +1,53 @@
+{
+  "chapter": 8,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "二房与后角门/借车/药罐线索交织，府内体面与查案冲突加深",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "谢绒绒与谢老太太、青杏、林管事形成更紧的查证配合",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "封门彻查后角门、借车册、二管事印与二房院线，并继续外扩到观音庙与药罐",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "谢府暖阁",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "身体仍近极限；证据仍多为口供与旁证；二房已正面入局，且新纸条将线索再次引向院内深处",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "谢绒绒仍虚弱、喉咙发紧，但已能冷静压迫式查验旧册、泥样与碎屑，主导查案节奏",
+      "validFromChapter": 8,
+      "validUntilChapter": null,
+      "sourceChapter": 8
+    }
+  ]
+}

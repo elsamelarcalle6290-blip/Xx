@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "裴行舟首次正面与谢老太太、谢绒绒交锋，明确以“体面”“春宴”“收手”施压，并留下衣样册细针试探谢府深浅；他像站在雾前看门的人，介入更深，但是否真为执刀者仍未定。"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "衣样册册页边角被要求再验是否刷过药粉，若与绣坊遮味药粉对上，说明这套掩味/藏物手法不只用于包袱纸壳，也可能渗入册页、文书类载体，进一步逼近“违禁之物如何安全流转”。"
+    },
+    {
+      "hookId": "location-mystery-查清后角门外-新泥来车的来-去向及其与湿",
+      "startChapter": 9,
+      "type": "location-mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "查清后角门外新泥来车的来处、去向及其与湿包袱/小漆盒是否有关",
+      "payoffTiming": "near-term",
+      "notes": "观音庙外停车路继续被实地布控；章末又冒出香灰桶旧车牌，边角旧青漆与裁边习惯疑似沾裴家，但也明显可能是故意抛出的误导物，上游调车者与真正调度中枢仍未明。"
+    },
+    {
+      "hookId": "mystery-查明-你们院里熬药-的罐",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "查明‘你们院里熬药的罐’究竟对应谁、是否与昨夜转运和药香有关",
+      "payoffTiming": "near-term",
+      "notes": "府医将继续验针尖异物与册页边角是否刷药粉，药料用途从麻布纸壳进一步延伸到衣样册载体的可能性，但药源头与真正被遮掩之物仍未落实。"
+    },
+    {
+      "hookId": "mystery-查明戴帷帽妇-南巷去向与小-漆盒的最终落",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "查明戴帷帽妇人、南巷去向与小漆盒的最终落点",
+      "payoffTiming": "mid-arc",
+      "notes": "许娘子确认衣样册内青线细针的别法像绣坊后堂帷帽娘子所用，说明衣样册与绣坊后堂在手法上相连，帷帽妇人与不能摊开的单子/隐藏纸样关系更深。"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "揪出府内外联动的幕后布局者",
+      "payoffTiming": "endgame",
+      "notes": "本章显示外网不只运货，还会反向踩门试探、投放信号与误导物：裴行舟知晓谢家已摸到南巷与码头，却未必掌全部链条；旧车牌又像有人故意把疑点往裴家头上推，幕后操盘层仍藏在更深处。"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "用车册、口供、纸条与物证拼出完整转运链",
+      "payoffTiming": "mid-arc",
+      "notes": "新增两类关键物证/手法：一是衣样册夹缝中的细针、青线与疑似异物；二是观音庙香灰桶里旧车牌。前者把裴家来物与绣坊后堂手法勾连，后者则给“车牌—停车—调车”线增添可能指向裴家的分叉，但仍待验证真伪。"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 13,
+      "expectedPayoff": "家人对谢绒绒判断的持续采信与护持",
+      "payoffTiming": "slow-burn",
+      "notes": "谢老太太不仅允许谢绒绒带病坐前厅，还在交锋后立刻按她的判断隔纸翻册、请医、押许娘子辨针、按她的策略回礼稳敌并暗布盯梢，祖孙协同进一步公开化、实战化。"
+    }
+  ]
+}

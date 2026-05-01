@@ -1,0 +1,90 @@
+{
+  "chapter": 8,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第7章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "禁止靠巧合直接翻案"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书分五卷，情绪不是线性抬高，而是“急拆雷—深挖根—外扩局—正面对撞—清算立新”的层层转调。第一卷的主题是“灭门从一场体面宴席开始”。情绪上必须极快发动，开局就把谢绒绒看见的抄家碎片、春宴将至的不祥感、她第一次拼命胡闹拆局并意外验证未来的有效性连成一口气，读感要鲜亮、慌张、密集，前段靠幼崽反差和即时避险抓人，中段靠长辈从不信到迟疑的转变抬升，卷尾则要让读者明白：春宴只是开刀口，不是全局终点。第二卷的主题是“家里先别烂，才有资格对外翻案”。情绪从表面缓和转为内里绷紧，爽感主要来自内鬼筛查、内宅外院重整、以旧规破旧规，既有抓到破绽的小胜，也有家人间因是否该撕破体面而产生的冲撞，整体像在安静屋子里一点点摸出藏针。第三卷的主题是“旧案不是过去，是正在追来的刀”。这一卷情绪更开阔，调查从府内走向外部，边军旧部、账册流向、证人存亡、官场站队逐步牵出更大朝局，爽点从家庭防守升级为主动出击，但同时也会出现一次明显的误判或提前暴露，让谢家意识到自己不是在和单个敌人斗，而是在碰一张已经铺开的网。第四卷的主题是“谁先上桌，谁就可能被吃掉”。情绪进入最强对撞期，宅斗几乎让位于公开博弈，谢家开始反设局、放风、引蛇出洞，裴行舟与其背后的利益链也真正露出獠牙，连环反扑、关键人物倒戈、证据链断又续的压迫感要足。第五卷的主题是“洗冤不是回到从前，而是换一种活法”。情绪由险转冷，由冷转亮，不再只是证明谢家无罪，而是追问谁该为这套拿人填坑的规则付账。最终的爽感来自名分归位、真相公开、仇怨清算，也来自谢家内部完成真正的更新：他们不再只是被动幸存者，而是经历过悬崖之后重建自身秩序的人。"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 冲突从“外线追箱”正式推进为“封门揪内鬼”：谢家已确认外部盯梢、河埠转运与府内开门人存在直接勾连，并从卖饼婆子口中坐实后角门逢双日戌初可应门；然而常妈妈先一步逃脱、二夫人当场闹院、乌木珠又指向借入车辆与近身挑衅，意味着敌方不只渗透谢府，还可能掌握复数出入口与内院响应链，谢家必须先在自家门内找出运输与通风的节点，否则证据链仍可能随时断裂"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 封门三日内迅速完成府内筛查：核近三个月借车与采办账、追查后角门与疑似“第二道门”的开闭人、缉拿潜逃的常妈妈及其传话丫头、对卖饼婆子与脚夫交叉对供，并顺城南观音庙砖缝接钱点、刀疤丫头与乌木珠来源继续外扩追链"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 谢绒绒持续高压惊惧与严重体力透支，返府后出现腿软、喉间腥甜、嗓音发哑等明显虚弱反应；但仍在暖阁与审讯中连续完成关键推断：坚持先封门查门查车、指出卖饼婆子会串供、追问陆家车行与后角门、锁定常妈妈线、并二次辨认碎乌木珠疑似车上挂穗珠/编号物件，其示警已从“现场辨认”升级为“主导谢府封门审讯方向”的核心判断源"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 锁箱本体仍失，现有线索仍多为口供与旁证；常妈妈已抢先潜逃，说明府内至少不止一个接应点；二房即将正面闹场，家中查人会触及体面与亲族冲突；夜审虽拿到新线头，但主使身份、戴帷帽妇人真容、陆家车行具体经手人及“第二道门”位置皆未落实，且谢绒绒身体已近极限"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "主线危机 | progressing | 第一卷至第五卷持续回收 | endgame | “看不见的手”已从府外布局升级为府内多点落子"
+    },
+    {
+      "source": "story/pending_hooks.md#H007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "家族关系 | progressing | 第一卷至第五卷持续回收 | slow-burn | 从行动性依赖继续推进到情感性托底与公开护持"
+    },
+    {
+      "source": "story/pending_hooks.md#H009",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "政治选择 | progressing | 第四卷、第五卷 | slow-burn | 组织化程度增强，但仍未实锤更高政治归属"
+    },
+    {
+      "source": "story/pending_hooks.md#H010",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "终局冤案 | progressing | 第五卷 | endgame | 离核心实物更近一步，仍缺一锤定音之证"
+    },
+    {
+      "source": "story/pending_hooks.md#H002",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "证据链 | progressing | 第二卷、第三卷 | mid-arc | 线索持续累积，但仍以供述和推测为主，常妈妈潜逃使直证再度后移"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "宅斗/内鬼 | progressing | 第二卷 | near-term | 内鬼范围从单点扩成院线/门禁链"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人物悬念 | progressing | 第三卷 | slow-burn | 可与此前刀疤线索并线，人物辨识度增强"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "反派布局 | progressing | 待后续明确 | slow-burn | 布局已呈现“外部执行层+府内接应层”的网络化结构"
+    }
+  ]
+}

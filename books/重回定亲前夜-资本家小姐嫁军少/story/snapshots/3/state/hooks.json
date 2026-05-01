@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "H011",
+      "startChapter": 1,
+      "type": "新盟友筛选",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "near-term",
+      "notes": "桂嫂子可信度提升；陈大娘成为新强节点，但仍保持边界感，不问顾家线"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 1,
+      "type": "顾家接触",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第二卷",
+      "payoffTiming": "near-term",
+      "notes": "本章未正式见到阿七，但接触前置障碍被清掉一层"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "家产线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第三卷",
+      "payoffTiming": "near-term",
+      "notes": "家产控制权再稳一步，但正式继承材料仍未补齐"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "婚约危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "immediate",
+      "notes": "周家短期受舆论制约，但婚约未解除，只是被迫后撤"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "旧人忠诚",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "忠诚仍是有限度的“看你值不值得帮”，并非无条件托底"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 0,
+      "type": "前夫家底牌",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "周家背后信息触角/操盘方式仍未揭晓，但其手段层级更清晰"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "父辈旧账",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷至第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "旧账危险性被再度拔高，与顾家线可能存在更深勾连"
+    }
+  ]
+}

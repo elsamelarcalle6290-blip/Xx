@@ -1,0 +1,95 @@
+{
+  "chapter": 8,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第7章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "无逻辑巧合推动核心剧情"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书适合分为五卷，情绪上层层抬升，不走平推路线。第一卷的主题是“抢命与换局”，情绪核心是急、狠、险。女主重生回定亲前夜，既要立刻确认自己回来了，也要在最短时间内拿走前世会被人一点点榨干的家底与关键凭据，再利用婚事转向完成命运切轨。这一卷的爽点来自预判式打脸和争分夺秒的抢先手，压迫感极强，但每次反击都要见血见效，形成高频小高潮。第二卷的主题是“进院立足”，情绪从紧绷转向暗流汹涌。婚后进入军属大院，女主面对的不是明火执仗的掠夺，而是试探、排斥、比较和闲言碎语，她要把“资本家小姐”“只会花钱”的标签扳成“会过日子、能解决问题、值得深交”，爽感更偏生活反转和团宠养成，同时情感线进入从防备到松动的阶段。"
+    },
+    {
+      "source": "runtime/hook_debt#H001",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H001（暗线接头，主要旧债，已开7章） | 读者承诺：顾家旧账/寄存物正式被调出并与苏家旧案连接 | 种于第0章：“废栈桥改旧磅房”的临场调整已兑现，接头进入下一层信息交换"
+    },
+    {
+      "source": "runtime/hook_debt#H002",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H002（物证/文书，主要旧债，已开7章） | 读者承诺：寄存单抄本现身，验证苏家祖父是否在顾家线留有可认账的寄存安排 | 种于第0章：纸已烧毁，只剩苏晚棠脑内记忆；提升信息脆弱性"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 明线冲突从“街道核册对周家代管说辞的压制”升级为“周家已动用外线夜盯并试图越过街坊边界闯门施压”；暗线冲突则推进为“苏家祖父留下的寄存单与旧账线开始浮出，但真正防备对象可能并非外人而是家内人”，苏晚棠必须一边顶住周家正面围堵，一边辨认苏家内部曾经的真正掏空者"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 明天天亮后在不触发街道三日核验限制的前提下，先去找姓邵的，拿到寄存单抄本；同步借齐嫂子、巡夜民兵与阿衡的人证，把“周家夜里派人盯梢、闯门、与外头眼线相连”坐实到街道可用的怀疑链上"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 苏晚棠成功以“装病留痕+借后门脱身”完成旧磅房验人接头；高热加重，脸色发白、冷汗顺脊、咳嗽真实且体力明显透支，坐下后几近脱力。她仍持有街道办受理回执与发黑旧铜扣；刻“顾”的黑扣已被顾家线收回。今晚取得一张已当场烧毁的油纸信息：记住了两个名字、一个干净地址，并确认明日应先去找姓邵的以调取“寄存单抄本”；同时获知原件不在城里。她还确认灰呢子与周家账房有接触，可作为周家夜间盯梢外线的人证线索"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 街道三日核验期仍在，苏晚棠行动半径依旧受登记范围约束；她病情显著恶化，继续夜奔与奔走风险极高；婚约未解除，周家仍可借长辈名义施压；顾家线只给抄本入口不给原件，且明确“别一起找、先邵后冯”，说明线索存在顺序门槛；真正动过苏家根基的人可能在“自家门里”，内部背刺范围扩大，信息风险上升；灰呢子已与她正面撕开脸，周家后续手段可能更硬"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "暗线接头 | progressing | 顾家旧账/寄存物正式被调出并与苏家旧案连接 | “废栈桥改旧磅房”的临场调整已兑现，接头进入下一层信息交换"
+    },
+    {
+      "source": "story/pending_hooks.md#H002",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "物证/文书 | progressing | 寄存单抄本现身，验证苏家祖父是否在顾家线留有可认账的寄存安排 | near-term | 纸已烧毁，只剩苏晚棠脑内记忆；提升信息脆弱性"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "监视网络 | progressing | 街道正式把周家与外线盯梢勾连起来，或反向利用灰呢子揪出更深执行层 | 由“盯梢存在”升级为“可指向周家账房的人证链”"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "家族内部阴影 | open | 揭出苏家内部真正动过根基、能接触祖父安排的人是谁 | mid-arc | 直接扩大嫌疑范围，可能牵出苏家亲缘/旧管事层"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人名线索 | open | 姓邵的身份、功能与抄本内容；姓冯的真实立场 | near-term | 两人功能不对等，且存在顺序陷阱"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "证人布局 | open | 街道形成对周家的程序性怀疑与外线盯梢记录 | near-term | 是制度战中的新证据拼图"
+    },
+    {
+      "source": "story/pending_hooks.md#H007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "旧铜扣来历 | open | 旧铜扣背后具体旧约、寄存关系及更多识别者浮出 | mid-arc | 信物识别范围可能不止顾家线"
+    }
+  ]
+}

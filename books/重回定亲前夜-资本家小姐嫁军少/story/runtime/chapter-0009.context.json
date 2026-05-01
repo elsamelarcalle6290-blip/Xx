@@ -1,0 +1,85 @@
+{
+  "chapter": 9,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第9章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "无逻辑巧合推动核心剧情"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书适合分为五卷，情绪上层层抬升，不走平推路线。第一卷的主题是“抢命与换局”，情绪核心是急、狠、险。女主重生回定亲前夜，既要立刻确认自己回来了，也要在最短时间内拿走前世会被人一点点榨干的家底与关键凭据，再利用婚事转向完成命运切轨。这一卷的爽点来自预判式打脸和争分夺秒的抢先手，压迫感极强，但每次反击都要见血见效，形成高频小高潮。第二卷的主题是“进院立足”，情绪从紧绷转向暗流汹涌。婚后进入军属大院，女主面对的不是明火执仗的掠夺，而是试探、排斥、比较和闲言碎语，她要把“资本家小姐”“只会花钱”的标签扳成“会过日子、能解决问题、值得深交”，爽感更偏生活反转和团宠养成，同时情感线进入从防备到松动的阶段。"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 明线冲突推进为“周家外线盯梢被街道、民兵与摊贩多人证实，制度层面已开始对周家生疑”；暗线冲突则从“祖父可能留有寄存安排”升级为“寄存抄本已证实存在，但认账必须拿到自家旧账中的断句，而三叔极可能早年试门失败、如今正抢先翻旧账房”，内外双线围堵同时收紧"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 立刻赶回苏家老宅，抢在三叔进一步翻走或毁掉旧账前，找到祖父旧账中的“转页断句”；同步把街道对周家盯梢的程序性留痕坐实，为后续阻断周家再施压留证"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 苏晚棠高热未退、咳嗽加重、体力透支明显，但已成功拿到并记住寄存单抄本关键信息：祖父曾托顾记平码号代存银票两匣、印章一封、账匙一柄；认账需“双识”——一凭发黑旧铜扣，一凭旧账转页断句。她确认原件仍不在城里，且冯家认账先认断句。她仍持有街道办受理回执、发黑旧铜扣，以及邵掌柜给的陈皮姜末小纸包；齐嫂子另给的粗面饼已部分食用。她还获知三年前曾有人拿半句断页试图认账，极可能指向三叔一线；章末突闻三老爷已撬开苏家东厢旧账房，局势骤然升级"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 街道三日核验期仍在，苏晚棠行动受登记与程序约束；病情反复，继续奔波随时可能晕倒；婚约未解除，周家仍可借长辈名义施压；寄存物认取仍卡在“旧账转页断句”这一核心门槛，抄本未带走、原件不在城里；苏家内部嫌疑已从模糊警惕缩窄到三叔/旧管事等可接触祖父私匣的人，且对方已先一步动旧账房，信息与物证灭失风险陡增"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "暗线接头 | progressing | 顾家旧账/寄存物被正式认账并牵出完整苏家旧案 | mid-arc | 接头阶段已进入“认账条件核验”层，后续关键转向冯家与断句"
+    },
+    {
+      "source": "story/pending_hooks.md#H002",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "物证/文书 | progressing | 找到旧账转页断句，补齐认账条件 | near-term | 纸只现场看过，仍依赖苏晚棠记忆；信息脆弱性持续存在"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "监视网络 | progressing | 顺藤摸出周家盯梢执行层与更深外线 | mid-arc | 已从“可疑跟梢”升级为“街道口公开留痕的人证事件”"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "家族内部阴影 | progressing | 揭出苏家内部真正动过根基、接触祖父私匣的人及其动机 | mid-arc | 嫌疑范围明显收束到三叔/旧管事层，不再只是抽象内鬼"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人名线索 | progressing | 弄清冯家立场并完成与其接触/认账 | near-term | “先邵后冯”的顺序陷阱已说明白，但冯家仍未出场"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "证人布局 | progressing | 街道据此对周家进行正式问责或形成更强保护 | near-term | 制度战拼图大幅充实，已不止单一口供"
+    },
+    {
+      "source": "story/pending_hooks.md#H007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "旧铜扣来历 | progressing | 旧铜扣背后完整旧约、寄存体系及识别链被揭开 | mid-arc | 铜扣地位从“可疑旧物”升格为认账核心物证"
+    }
+  ]
+}

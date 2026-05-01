@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "王嬷嬷供出“去年外头就有人递话”“谢家风头太盛，迟早要出事”，说明外部布局早于春宴，组织性更强，但尚未触及明确政治归属。"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "小漆盒已确认与后角门来车、药包递送同链，且存在“南边换封”环节，离核心栽赃实物流转更近一步。"
+    },
+    {
+      "hookId": "location-mystery-查清后角门外-新泥来车的来-去向及其与湿",
+      "startChapter": 9,
+      "type": "location-mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "查清后角门外新泥来车的来处、去向及其与湿包袱/小漆盒是否有关",
+      "payoffTiming": "near-term",
+      "notes": "已确认来车自门外压入、用于接药包与小漆盒，车内发现湿麻布、药渍、海棠铜扣；后续重点转向车的上游与南巷绣坊。"
+    },
+    {
+      "hookId": "mystery-查明-你们院里熬药-的罐",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "查明‘你们院里熬药的罐’究竟对应谁、是否与昨夜转运和药香有关",
+      "payoffTiming": "near-term",
+      "notes": "大罐与药房灶灰、安神散缺失、车辕黑灰已完成并线；现已明确药房夜里被借名取药，但药物用途与最终加工方式仍未完全查清。"
+    },
+    {
+      "hookId": "mystery-查明戴帷帽妇-南巷去向与小-漆盒的最终落",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "查明戴帷帽妇人、南巷去向与小漆盒的最终落点",
+      "payoffTiming": "mid-arc",
+      "notes": "本章进一步验证“南边去路”为真实转运方向，并新增“南巷绣坊换封点”；帷帽妇人本身仍未落网。"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "揪出府内外联动的幕后布局者",
+      "payoffTiming": "endgame",
+      "notes": "王嬷嬷实锤只是递送执行层，外头另有牵线婆子、后角门接头人、南巷绣坊与更上层安排者，主线从“府内有鬼”升级为“内外网络已成形”。"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "家人对谢绒绒判断的持续采信与护持",
+      "payoffTiming": "slow-burn",
+      "notes": "谢老太太亲口承认“你不是胡闹”，明言“替你把路铺出来”，并公开下令给谢绒绒增派两人随护，祖孙互信与家内站队显著升级。"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 10,
+      "expectedPayoff": "用车册、口供、纸条与物证拼出完整转运链",
+      "payoffTiming": "mid-arc",
+      "notes": "新增车辙方向、黄泥枯草、灶灰、湿麻布、药渍、海棠铜扣、安神散缺失、小菱口供与王嬷嬷招供，转运链首次具备完整内外节点雏形。"
+    }
+  ]
+}

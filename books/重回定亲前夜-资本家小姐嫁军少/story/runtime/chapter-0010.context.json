@@ -1,0 +1,95 @@
+{
+  "chapter": 10,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第9章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "无逻辑巧合推动核心剧情"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书适合分为五卷，情绪上层层抬升，不走平推路线。第一卷的主题是“抢命与换局”，情绪核心是急、狠、险。女主重生回定亲前夜，既要立刻确认自己回来了，也要在最短时间内拿走前世会被人一点点榨干的家底与关键凭据，再利用婚事转向完成命运切轨。这一卷的爽点来自预判式打脸和争分夺秒的抢先手，压迫感极强，但每次反击都要见血见效，形成高频小高潮。第二卷的主题是“进院立足”，情绪从紧绷转向暗流汹涌。婚后进入军属大院，女主面对的不是明火执仗的掠夺，而是试探、排斥、比较和闲言碎语，她要把“资本家小姐”“只会花钱”的标签扳成“会过日子、能解决问题、值得深交”，爽感更偏生活反转和团宠养成，同时情感线进入从防备到松动的阶段。"
+    },
+    {
+      "source": "runtime/hook_debt#hook-1",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-1（unspecified，主要旧债，已开9章） | 读者承诺：（未写明） | 种于第0章：story/pending_hooks.md#H001: 暗线接头 | progressing | 顾家旧账/寄存物被正式认账并牵出完整苏家旧案 | mid-arc | 旧账转页确认留有“先邵，后冯”顺序信息，认账线从邵家正式逼近冯家"
+    },
+    {
+      "source": "runtime/hook_debt#hook-2",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-2（unspecified，主要旧债，已开9章） | 读者承诺：（未写明） | 种于第0章：story/pending_hooks.md#H002: 物证/文书 | progressing | 找到旧账转页断句，补齐认账条件 | near-term | 《壬申冬支》转页被裁，已从压痕中补出“问四字”方向，但真正后半句仍缺失"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 明线冲突从“抢回苏家旧账主动权”推进为“在见证下封住被动过的账本，三叔当场失去继续翻账空间”；暗线冲突则从“寻找旧账转页断句”推进为“确认《壬申冬支》转页被裁，并由压痕补出‘先邵，后冯，问四字’的方向信息”。同时，冯家首次递牌到门外，使认账线正式逼近但尚未展开正面问答"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 守住被动过的旧账与现场留痕，确保三叔一线短时间内无法继续翻动或销毁账册；同时谨慎接冯家旧人，确认其来意与立场，并尽快围绕“问四字”推进认账门槛"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 苏晚棠高热未退、咳嗽加重、体力透支明显，在旧账房内一度发眩失衡，但仍强撑完成现场控局。她仍持有街道办受理回执、发黑旧铜扣，以及邵掌柜给的陈皮姜末小纸包（已用少量）。她已从《壬申冬支》被裁转页与压痕中确认到关键信息：“先邵，后冯，问四字”，并判断动账者拿到的内容可能仍不完整"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 街道三日核验期仍在，苏晚棠行动受程序约束；病情反复，随时可能再度晕倒；婚约未解除，周家仍可借长辈名义施压；寄存物认取仍卡在“旧账转页断句”最后缺失内容上；账页虽发现压痕，但真正后半句仍未找回；苏家内部嫌疑人已进一步锁定到三叔/何顺/可能接触过旧账的人，且对方仍在宅内，反扑风险高"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-1",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H001: 暗线接头 | progressing | 顾家旧账/寄存物被正式认账并牵出完整苏家旧案 | mid-arc | 旧账转页确认留有“先邵，后冯”顺序信息，认账线从邵家正式逼近冯家"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-2",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H002: 物证/文书 | progressing | 找到旧账转页断句，补齐认账条件 | near-term | 《壬申冬支》转页被裁，已从压痕中补出“问四字”方向，但真正后半句仍缺失"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-3",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H003: 监视网络 | progressing | 顺藤摸出周家盯梢执行层与更深外线 | mid-arc | 本章未新增实质外线信息，但街道核验与前章留痕仍持续生效"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-4",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H004: 家族内部阴影 | progressing | 揭出苏家内部真正动过根基、接触祖父私匣的人及其动机 | mid-arc | 三叔现场失言、知晓私匣与旧铜扣，且在被裁账页现场强行翻账，嫌疑进一步坐实；何顺出现松动迹象"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-5",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H005: 人名线索 | progressing | 弄清冯家立场并完成与其接触/认账 | near-term | 冯家首次正式递牌验人，但仅问“账是否被动过”，尚未进入核心四字问答"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-6",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H006: 证人布局 | progressing | 街道据此对周家进行正式问责或形成更强保护 | near-term | 赵卫东本章完成现场逐项登记，程序性留痕从街口盯梢扩展到苏家旧账房被撬与账页被裁"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-7",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#H007: 旧铜扣来历 | progressing | 旧铜扣背后完整旧约、寄存体系及识别链被揭开 | mid-arc | 苏明成见铜扣明显失态并脱口提及“私匣”，证明其知晓铜扣位置与旧识别链的一部分，但完整来历仍未揭开"
+    }
+  ]
+}

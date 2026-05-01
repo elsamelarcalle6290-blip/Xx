@@ -1,0 +1,53 @@
+{
+  "chapter": 3,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "苏家院中与屋内之间；清晨刚压退周母一行，正准备立即动身前往城南六码头赴卯时之约找阿七",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "苏晚棠仍有掌心破皮、膝盖青痕、受寒未愈，咳嗽与脸色苍白被她主动利用作守孝病弱姿态；昨夜当巷掌掴周成并公开钉死其“尾随”名头，今晨又借陈大娘站台压退周母、堂伯、刘媒婆；手中继续掌握存单登记回执、缓婚报备单、旧账册、票据、可用于补亲属关系证明的旧信，以及藏入鞋底夹层的“卯时六码头找阿七”纸条",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "甩开可能尾巴，按约前往城南六码头接触阿七；同时在午后携旧信与识认证物跟陈大娘去居委后巷见老许，推进亲属关系证明补办，继续稳固苏家家产控制权与缓婚局面",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "周家虽被暂时压退，但已彻底撕下体面并可能继续换手段施压；“尾随”舆论只能短期牵制，不能根除婚约威胁；正式继承/支取手续仍未完成，需老许签字及后续居委流程；顾家线仍属高风险暗线，不能让周家嗅到；可直接信任的人虽增加，但都属有限帮助、不可过度暴露全部计划",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "我方：苏晚棠；已站队/可借力：桂嫂子（传话照应）、陈大娘（强力邻里与居委旧关系）、李婶（此前已站队盯防）、张干事（程序性中立偏苏）、储蓄所女会计（程序性协助）；有限合作：赵瘸子、即将接触的阿七、后续可争取的老许；敌方：周母、周成；周家临时助力/施压方：本家堂伯、刘媒婆；围观舆论节点：蔡婶及街坊邻里",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "表层冲突已升级为“婚约逼迫+夜间尾随+清晨堵门评理”的公开攻防；核心冲突变为苏晚棠能否在周家持续换招前，一边借邻里与居委关系补齐证明、锁死家产流程，一边暗线赴码头接上顾家旧账，从而真正完成命运换轨",
+      "validFromChapter": 3,
+      "validUntilChapter": null,
+      "sourceChapter": 3
+    }
+  ]
+}

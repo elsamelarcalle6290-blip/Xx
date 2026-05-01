@@ -1,0 +1,85 @@
+{
+  "chapter": 5,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第4章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "无逻辑巧合推动核心剧情"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书适合分为五卷，情绪上层层抬升，不走平推路线。第一卷的主题是“抢命与换局”，情绪核心是急、狠、险。女主重生回定亲前夜，既要立刻确认自己回来了，也要在最短时间内拿走前世会被人一点点榨干的家底与关键凭据，再利用婚事转向完成命运切轨。这一卷的爽点来自预判式打脸和争分夺秒的抢先手，压迫感极强，但每次反击都要见血见效，形成高频小高潮。第二卷的主题是“进院立足”，情绪从紧绷转向暗流汹涌。婚后进入军属大院，女主面对的不是明火执仗的掠夺，而是试探、排斥、比较和闲言碎语，她要把“资本家小姐”“只会花钱”的标签扳成“会过日子、能解决问题、值得深交”，爽感更偏生活反转和团宠养成，同时情感线进入从防备到松动的阶段。"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 明线冲突继续围绕周家逼婚、盯梢与夺取苏家财物展开，但苏晚棠已把其施压从“堵门”压回到“不敢明着闹”；暗线冲突升级为顾家/苏记旧账是否能成为保命通道，以及其中潜伏的背叛风险；双线并行下，她必须在身体吃紧、信息不完整、敌方持续试探的情况下，同时完成遗产证明手续和下一次码头接头"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 守住顾家暗线与新得接头信息，三日后按新指引走西边废栈桥继续接近阿七/顾家线；同时趁周家短期不敢明目张胆施压，尽快完成老许线后续见证与街道核验，补齐亲属关系证明、稳固苏家遗产控制权"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 苏晚棠掌心破皮、膝盖发木青痛、受寒未愈与咳嗽仍在，体力被一整日奔波进一步消耗；成功借旧棉袄、菜篮与晨市人流甩脱周家尾巴，完成对顾家旧线的第一次实地接头；已将一枚刻“顾”字的发黑铜扣留在六码头仓房作为验身信物，手中新增一枚成对铜扣与“西边废栈桥”接头提醒；旧信、票据与两样识认证物已用于老许验看，现拿到亲属关系证明的第一份情况说明，并明确明早去找孙裁缝、赵木匠按手印"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 周家已确认她外出并持续布尾，虽当街吃瘪但仍未放弃；婚约未解，只是再被拖缓；顾家线试探性极强、信息边界严，阿七本人仍未现身，旧账危险被明确拔高；亲属关系证明目前仅拿到情况说明，仍需两位老街坊手印与正式街道流程；苏晚棠身体虚弱，连续奔走后负担加重"
+    },
+    {
+      "source": "story/pending_hooks.md#H011",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "新盟友筛选 | progressing | 第一卷 | near-term | 可信人脉在增加，但都建立于“有限帮助+不过界”"
+    },
+    {
+      "source": "story/pending_hooks.md#H012",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "顾家接触 | progressing | 第一卷至第二卷 | near-term | 接触门已摸到，但仍处于高警惕试探期，且出现仓房线外的主动联络"
+    },
+    {
+      "source": "story/pending_hooks.md#H002",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "家产线索 | progressing | 第一卷至第三卷 | near-term | 家产保全显著前进，但正式材料仍待手印与街道核"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "婚约危机 | progressing | 第一卷 | immediate | 婚约未解除，但周家公开施压空间再缩小"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "旧人忠诚 | progressing | 第三卷 | mid-arc | 无人无条件托底，延续本线核心判断"
+    },
+    {
+      "source": "story/pending_hooks.md#H008",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前夫家底牌 | progressing | 第四卷 | slow-burn | 周家不只是蛮横，也在系统化收缩女主行动空间"
+    },
+    {
+      "source": "story/pending_hooks.md#H009",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "父辈旧账 | progressing | 第三卷至第四卷 | slow-burn | 与顾家线深度绑定，危险性明显上扬"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "暗线接头",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顾家旧账/寄存物被正式认账并牵出完整苏家旧案",
+      "payoffTiming": "mid-arc",
+      "notes": "冯家线从“递牌验人”升级为“给规则、给方法、不直接给答案”"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "物证/文书",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "找到旧账转页断句，补齐认账条件",
+      "payoffTiming": "near-term",
+      "notes": "已拿到明确搜证法，但后半句仍未实得"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "监视网络",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顺藤摸出周家盯梢执行层与更深外线",
+      "payoffTiming": "mid-arc",
+      "notes": "监视主题扩展为“外线+内宅眼线”双层结构"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "家族内部阴影",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "揭出苏家内部真正动过根基、接触祖父私匣的人及其动机",
+      "payoffTiming": "mid-arc",
+      "notes": "三叔从“高嫌疑”逼近“主动作案链核心”"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 0,
+      "type": "人名线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "弄清冯家立场并完成与其接触/认账",
+      "payoffTiming": "near-term",
+      "notes": "已接触成功，但完整认账尚未完成"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "证人布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "街道据此对周家进行正式问责或形成更强保护",
+      "payoffTiming": "near-term",
+      "notes": "程序留痕开始外溢成多方认可的“有凭”"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "旧铜扣来历",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "旧铜扣背后完整旧约、寄存体系及识别链被揭开",
+      "payoffTiming": "mid-arc",
+      "notes": "铜扣机制揭开一半，仍缺私匣所在与完整开启流程"
+    }
+  ]
+}

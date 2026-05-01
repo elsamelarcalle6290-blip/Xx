@@ -1,0 +1,104 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "endgame",
+      "notes": "春宴危险性被谢绒绒再度预警并首次迫使父母调整行动；结论从“不能去”推进到“人得去，但局要改”"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第二卷、第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "水浸账册意象进一步清晰，新增“账还在水里”与“黑漆木印、边角缺一块”的新碎片；湿纸意象在现实中对应到被茶水污损的补录单，形成弱验证"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "宅斗/内鬼",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第二卷",
+      "payoffTiming": "near-term",
+      "notes": "帖子匣、补录采办单、回礼名册先后被动过手脚；秋棠失手说辞可疑，被控制审问；采办房与后罩房近月出入开始排查"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "人物悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "slow-burn",
+      "notes": "秋棠出事时第一反应望向周妈妈，旧管事线头被轻触；但周妈妈当前仍在夫人指令下执行审查，嫌疑未实"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 0,
+      "type": "朝堂权谋",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第三卷、第四卷",
+      "payoffTiming": "mid-arc",
+      "notes": "谢承钧在外院听到旧年军需复核再被翻起，且有人席间试探谢家；春宴催帖异常，礼部侍郎夫人与安国公府来信过急"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "反派布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待后续明确",
+      "payoffTiming": "slow-burn",
+      "notes": "本章未正面出场，但“反复确认谢家会带什么出门”的动作吻合暗中布网观察阶段"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "slow-burn",
+      "notes": "沈知意率先听女儿、谢承钧由观望转为联手接手外部遮掩；谢家核心小范围信息壁垒开始松动"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 0,
+      "type": "能力代价",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "待后续",
+      "payoffTiming": "slow-burn",
+      "notes": "谢绒绒连续冷醒、惊哭、冷汗，预知虽有效却愈发具体且消耗明显；她仍只能靠哭闹和指认推动现实"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "春宴背后已不只是礼数，而像有人借场合筛查谢家手中材料；谢家为何被盯上开始露出“可被切割/观察”的政治意味"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "本章未直接推进终局旧冤，仅继续维持“旧账册可能牵连深层冤案”的远期承诺"
+    }
+  ]
+}

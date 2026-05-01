@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "北城黑门小院实取出药渣、温灶灰、抹泥砂罐与被辛香硬压过的焦气，说明“借药、借香、借罐”不是单一后院动作，而是多节点协同的灭证/遮味体系；与旧案中系统化处理痕迹的方式进一步呼应。"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "冯掌柜被活口与实物坐实深卷后，裴行舟在北线暴露当日亲自上谢府，说明他已不能只做门脸外的旁观者；其是来切割、施压、试探，还是补局，进入新阶段。"
+    },
+    {
+      "hookId": "location-mystery-查清后角门外-新泥来车的来-去向及其与湿",
+      "startChapter": 9,
+      "type": "location-mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "查清后角门外新泥来车的来处、去向及其与湿包袱/小漆盒是否有关",
+      "payoffTiming": "near-term",
+      "notes": "车线新增关键落点：北城黑门小院。郭老五证实旧青篷车曾在申时前后停于院外，车上东西被转成草席、砂罐与海棠黑漆盒，再于“申正前回”送往北二院；后角门—修棚—裴记后院之外的北向接力段已被坐实。"
+    },
+    {
+      "hookId": "mystery-查明-你们院里熬药-的罐",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "查明‘你们院里熬药的罐’究竟对应谁、是否与昨夜转运和药香有关",
+      "payoffTiming": "near-term",
+      "notes": "本章在黑门小院实际找到温灶灰、浓汤糊痕、两只抹泥破砂罐与药渣，基本坐实“熬药的罐”确有对应实体场所，且与北向接手点关联紧密；但院内熬的究竟是遮腥药、处理药，还是另有用途，仍未完全解开。"
+    },
+    {
+      "hookId": "mystery-查明戴帷帽妇-南巷去向与小-漆盒的最终落",
+      "startChapter": 8,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "查明戴帷帽妇人、南巷去向与小漆盒的最终落点",
+      "payoffTiming": "mid-arc",
+      "notes": "戴帷帽妇人由取车者进一步升级为黑门小院实际转运参与者，并被郭老五证实曾与冯掌柜对话“二院还收不收”；海棠纹黑漆盒得到碎漆实物印证，但她与盒子的最终去向仍指向未明的北二院。"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "揪出府内外联动的幕后布局者",
+      "payoffTiming": "endgame",
+      "notes": "谢家摸到北城租院与北二院编号体系的边缘，证明幕后不是单点藏匿而可能是分段、编号、可快速转移的更大网络；裴行舟亲自登门，主线危机从抢线索升级到即将发生的正面博弈。"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "用车册、口供、纸条与物证拼出完整转运链",
+      "payoffTiming": "mid-arc",
+      "notes": "新增物证并口：黑门小院药渣、焦灰、碎漆、烧残账页、半块乌木牌；新增活口郭老五口供，坐实“旧青篷车→黑门小院暂接→草席/砂罐/海棠盒分装→申正前回→北二院收”；证据链已从裴记后院再向北推进一站。"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "家人对谢绒绒判断的持续采信与护持",
+      "payoffTiming": "slow-burn",
+      "notes": "谢老太太完全按谢绒绒的“盯前铺活人动线+查熬药痕迹”方案布人，搜院得实证后又明确替她接手后续追击，并强令她休养；祖孙间已形成“她找线、长辈落刀”的成熟协同。"
+    }
+  ]
+}

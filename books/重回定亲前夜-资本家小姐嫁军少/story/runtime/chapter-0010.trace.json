@@ -1,0 +1,38 @@
+{
+  "chapter": 10,
+  "plannerInputs": [
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\author_intent.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\current_focus.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\story_bible.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\volume_outline.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\chapter_summaries.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\book_rules.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\current_state.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\pending_hooks.md",
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "F:\\Xx\\books\\重回定亲前夜-资本家小姐嫁军少\\story\\runtime\\chapter-0010.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/audit_drift.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "runtime/hook_debt#hook-1",
+    "runtime/hook_debt#hook-2",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/pending_hooks.md#hook-1",
+    "story/pending_hooks.md#hook-2",
+    "story/pending_hooks.md#hook-3",
+    "story/pending_hooks.md#hook-4",
+    "story/pending_hooks.md#hook-5",
+    "story/pending_hooks.md#hook-6",
+    "story/pending_hooks.md#hook-7"
+  ],
+  "notes": []
+}

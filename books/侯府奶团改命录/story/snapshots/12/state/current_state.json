@@ -1,0 +1,53 @@
+{
+  "chapter": 12,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "谢府内偏厅审讯后，谢绒绒正由偏厅转往前厅；外部调查焦点由南巷绣坊进一步推进至南码头梅平码头仓、梅水巷与小埠灯号接应点",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "谢绒绒重度虚弱持续，归府下车腿软、咳嗽带甜腥、久站眼前发黑，但仍亲自旁听并主导审讯，借药单、湿纸条与反应试探推断出“海”非“海”而是“梅”，补全码头节点，并主动决定带病去前厅应对裴家第二次上门试探",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "一边暗盯南码头梅平码头仓/梅水巷/小埠及灰旗小船、灯号与接头人，一边继续顺查观音庙外递车牌者与府内借牌线，同时正面试探裴公子此番亲至究竟意在施压、探虚实还是验谢府反应",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "身体虚弱加重；幕后总控者仍未露面；许娘子与刀疤男都只知分段信息；码头接应只认灯不认人，需暗盯不能惊动；二夫人嫌疑仍高但未坐实；裴家已从递话升级为连夜再度登门，调查隐蔽性进一步下降",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "我方为谢绒绒、谢老太太、青杏、林管事、周妈妈及谢府可调人手；许娘子、刀疤男已被分开控制并开始吐口；二夫人持续处于高危嫌疑位；外部联动网已明确含帷帽妇人、观音庙外递车牌的青布短打年轻人、南巷换封点、挑担送灯老头、灰旗小船及更上层未露面操盘者；裴家/裴公子明面介入强度上升",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "谢家虽借审讯把转运链推进到“梅平码头仓—梅水巷—灯号指令”层级，却也确认对手分层切割、传讯隐秘且已感知谢府动作；内部仍要压二房与借牌线，外部则要在不打草惊蛇的前提下盯住码头，并立刻迎战裴家踩到门前的试探与压力",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    }
+  ]
+}

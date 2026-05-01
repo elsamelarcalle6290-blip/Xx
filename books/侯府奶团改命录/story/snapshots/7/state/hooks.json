@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "主线危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "endgame",
+      "notes": "“看不见的手”已从府外布局升级为府内多点落子"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "家族关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第五卷持续回收",
+      "payoffTiming": "slow-burn",
+      "notes": "从行动性依赖继续推进到情感性托底与公开护持"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "政治选择",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第四卷、第五卷",
+      "payoffTiming": "slow-burn",
+      "notes": "组织化程度增强，但仍未实锤更高政治归属"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 0,
+      "type": "终局冤案",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第五卷",
+      "payoffTiming": "endgame",
+      "notes": "离核心实物更近一步，仍缺一锤定音之证"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "证据链",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第二卷、第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "线索持续累积，但仍以供述和推测为主，常妈妈潜逃使直证再度后移"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "宅斗/内鬼",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第二卷",
+      "payoffTiming": "near-term",
+      "notes": "内鬼范围从单点扩成院线/门禁链"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "人物悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "slow-burn",
+      "notes": "可与此前刀疤线索并线，人物辨识度增强"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "反派布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待后续明确",
+      "payoffTiming": "slow-burn",
+      "notes": "布局已呈现“外部执行层+府内接应层”的网络化结构"
+    }
+  ]
+}

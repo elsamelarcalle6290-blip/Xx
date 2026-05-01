@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 19,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "manifest.json invalid, rebuilt from markdown"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": 6,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "福顺茶馆外侧窄巷门灯下；苏晚棠刚离开茶馆，确认新纸条将今晚接头地点从废栈桥改到北货场旧磅房",
+      "validFromChapter": 6,
+      "validUntilChapter": null,
+      "sourceChapter": 6
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "苏晚棠受寒未愈且明显加重，背上发冷、额头发烫，久站脚步发虚，冷汗浸背，强压咳嗽后在巷中剧烈咳喘；她仍持有街道办受理回执、刻“顾”的黑扣、成对中的那枚发黑旧铜扣，以及新收到的改线纸条。下午已配合刘干事核旧册、认附页异常转记，并随街道走访两户老街坊，取得关于王桂香、周家搬走红漆箱和账册的新增口供线索",
+      "validFromChapter": 6,
+      "validUntilChapter": null,
+      "sourceChapter": 6
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "今晚亥时前在不暴露纸条与信物的前提下，改赴北货场旧磅房完成顾家线接头；同时继续留在街道登记范围内，配合未来三日核验，坐实苏家宅产与旧物被“亲眷代管/转移”的问题并压死周家、王桂香的说辞",
+      "validFromChapter": 6,
+      "validUntilChapter": null,
+      "sourceChapter": 6
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "街道已明确苏晚棠今后三日需在登记范围内配合核验，谁替她代答都会被记一笔，这保护了她也束缚了她行动半径；婚约未解除，周家仍可继续以名声、长辈、茶馆议论施压；旧册出现“暂由亲眷代管，待女归宁后再议”的异常转记，但字迹与手印尚未锁定具体责任人；顾家线再次临场改线，且开始要求验她贴身旧铜扣，说明接头门槛更高、风险更大；灰呢子盯梢已贴到茶馆外，周家与暗线监视可能交叉；苏晚棠身体继续下滑，夜间独自行动危险陡增",
+      "validFromChapter": 6,
+      "validUntilChapter": null,
+      "sourceChapter": 6
+    }
+  ]
+}

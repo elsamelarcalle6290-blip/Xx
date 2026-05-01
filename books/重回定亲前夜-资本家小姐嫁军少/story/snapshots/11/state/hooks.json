@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "暗线接头",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顾家旧账/寄存物被正式认账并牵出完整苏家旧案",
+      "payoffTiming": "mid-arc",
+      "notes": "冯家仍未正面交全答案，但规则与验账位置已从暗示推进到半明牌"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "物证/文书",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "找到旧账转页断句，补齐认账条件",
+      "payoffTiming": "near-term",
+      "notes": "物证已到手但仍非完整句，距离“补齐后半句”只差最后一截与执行规则"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "监视网络",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "顺藤摸出周家盯梢执行层与更深外线",
+      "payoffTiming": "mid-arc",
+      "notes": "监视结构继续呈现“内宅眼线+外部盯梢”双层并行"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "家族内部阴影",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "揭出苏家内部真正动过根基、接触祖父私匣的人及其动机",
+      "payoffTiming": "mid-arc",
+      "notes": "三叔已从高嫌疑推进为主动灭证的作案链核心人物，但全动机和上下游仍未揭全"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 0,
+      "type": "人名线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "弄清冯家立场并完成与其接触/认账",
+      "payoffTiming": "near-term",
+      "notes": "冯家立场更清，但正式认账仍缺人合与最终问字"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "证人布局",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "街道据此对周家进行正式问责或形成更强保护",
+      "payoffTiming": "near-term",
+      "notes": "本章重点转向苏家内册灭证的街道留痕，保护线进一步坐实"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 0,
+      "type": "旧铜扣来历",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "旧铜扣背后完整旧约、寄存体系及识别链被揭开",
+      "payoffTiming": "mid-arc",
+      "notes": "铜扣功能从“私匣机关”进一步细化为“第一层门槛”，完整私匣位置与后续开启法仍缺"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 11,
+      "type": "神秘来客/前世回响",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "揭示来客身份、其与前世时点差异及对当前局势的影响",
+      "payoffTiming": "near-term",
+      "notes": "新悬念；可能与顾家旧案、冯家线或关键证人有关，需谨慎核实"
+    }
+  ]
+}

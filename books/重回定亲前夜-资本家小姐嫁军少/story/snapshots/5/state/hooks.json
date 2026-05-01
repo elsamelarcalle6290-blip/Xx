@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "H011",
+      "startChapter": 1,
+      "type": "新盟友筛选",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "near-term",
+      "notes": "可信人脉明显增厚，但均是“有限帮助+不替她扛全部风险”；苏晚棠也承诺证人被周家找麻烦时不会让他们单扛"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 1,
+      "type": "顾家接触",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第二卷",
+      "payoffTiming": "near-term",
+      "notes": "顾家线从试探变成主动改期接触，危险同步升级；六码头与废栈桥监视可能来自周家、顾家敌对方或第三方"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "家产线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第三卷",
+      "payoffTiming": "near-term",
+      "notes": "家产保全取得阶段性制度成果；街道已记录非本人签字代领/代管暂不采信，但核档未完成前仍有变数"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "婚约危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "immediate",
+      "notes": "婚约仍未解除，但周家以婆家身份代管财物的路被红章暂时堵住；后续可能转入街道调解或拿过礼凭据施压"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "旧人忠诚",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "旧人不是无条件忠诚，必须看代价、保护机制与旧情分；苏晚棠正用“让人能承担的方式”重建旧网"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 0,
+      "type": "前夫家底牌",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "周家行动具有组织性：盯梢、证人阻截、舆论围堵、长辈出面一体推进，说明他们不止靠蛮横"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "父辈旧账",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷至第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "苏父旧线与顾家关联进一步实锤；“被盯问”说明父辈旧账牵涉的风险正在外溢到现实追踪"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+[app]
+project_version = "0.7.6"
+llm_vision_timeout = 120
+llm_text_timeout = 180
+llm_max_retries = 3
+vision_llm_provider = "openai"
+vision_openai_model_name = "gpt-5.4-nano"
+vision_openai_api_key = "sk-aiuRcZ7muwA9OSeUMPyge6Yj91pCxlAIyo4UoFOxZDT4JCzI"
+vision_openai_base_url = "https://api.vectorengine.ai/v1"
+text_llm_provider = "openai"
+text_openai_model_name = "gpt-5.4-nano"
+text_openai_api_key = "sk-aiuRcZ7muwA9OSeUMPyge6Yj91pCxlAIyo4UoFOxZDT4JCzI"
+text_openai_base_url = "https://api.vectorengine.ai/v1"
+jianying_import_enabled = true
+jianying_import_root = "G:\\NarratoAI_Jianying_Import"
+jianying_draft_enabled = true
+jianying_draft_root = "G:\\草稿\\草稿1\\JianyingPro Drafts"
+jianying_draft_template = "G:\\草稿\\草稿1\\JianyingPro Presets\\Combination\\Presets\\我的预设1\\preset_draft"
+hide_config = true
+video_clip_json_path = "G:\\NarratoAI_v0.7.7\\NarratoAI_v0.7\\NarratoAI\\resource\\scripts\\2026-0426-151549.json"
+
+[azure]
+speech_key = ""
+speech_region = ""
+
+[tencent]
+secret_id = ""
+secret_key = ""
+region = "ap-beijing"
+
+[soulvoice]
+api_key = ""
+voice_uri = "speech:mcg3fdnx:clzkyf4vy00e5qr6hywum4u84:bzznlkuhcjzpbosexitr"
+api_url = "https://tts.scsmtech.cn/tts"
+model = "FunAudioLLM/CosyVoice2-0.5B"
+
+[tts_qwen]
+api_key = ""
+model_name = "qwen3-tts-flash"
+
+[indextts2]
+api_url = "http://127.0.0.1:8081/tts"
+infer_mode = "normal"
+temperature = 1.0
+top_p = 0.8
+top_k = 30
+do_sample = true
+num_beams = 3
+repetition_penalty = 10.0
+
+[ui]
+tts_engine = "edge_tts"
+edge_voice_name = "zh-CN-XiaoxiaoNeural-Female"
+edge_volume = 80
+edge_rate = 1.35
+edge_pitch = 0
+azure_voice_name = "zh-CN-XiaoyiNeural-Female"
+azure_volume = 80
+azure_rate = 1.0
+azure_pitch = 0
+language = "zh"
+voice_name = "zh-CN-XiaoxiaoNeural-Female"
+subtitle_enabled = false
+font_name = "simhei.ttf"
+text_fore_color = "#FFFFFF"
+font_size = 60
+
+[proxy]
+http = ""
+https = ""
+enabled = false
+
+[frames]
+frame_interval_input = 6
+vision_batch_size = 20

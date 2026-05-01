@@ -1,0 +1,35 @@
+{
+  "name": "Xx",
+  "version": "0.1.0",
+  "language": "zh",
+  "llm": {
+    "provider": "openai",
+    "service": "custom:Custom",
+    "configSource": "env",
+    "baseUrl": "",
+    "model": "",
+    "apiFormat": "chat",
+    "stream": true,
+    "services": [
+      {
+        "service": "custom",
+        "name": "Custom",
+        "baseUrl": "https://api.vectorengine.ai/v1",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "apiFormat": "chat",
+        "stream": true
+      }
+    ],
+    "defaultModel": "gpt-5.4"
+  },
+  "notify": [],
+  "inputGovernanceMode": "v2",
+  "daemon": {
+    "schedule": {
+      "radarCron": "0 */6 * * *",
+      "writeCron": "*/15 * * * *"
+    },
+    "maxConcurrentBooks": 3
+  }
+}

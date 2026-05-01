@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "H011",
+      "startChapter": 1,
+      "type": "新盟友筛选",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "near-term",
+      "notes": "可信人脉在增加，但都建立于“有限帮助+不过界”"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 1,
+      "type": "顾家接触",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第二卷",
+      "payoffTiming": "near-term",
+      "notes": "接触门已摸到，但仍处于高警惕试探期，且出现仓房线外的主动联络"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "家产线索",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷至第三卷",
+      "payoffTiming": "near-term",
+      "notes": "家产保全显著前进，但正式材料仍待手印与街道核"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "婚约危机",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第一卷",
+      "payoffTiming": "immediate",
+      "notes": "婚约未解除，但周家公开施压空间再缩小"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 0,
+      "type": "旧人忠诚",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷",
+      "payoffTiming": "mid-arc",
+      "notes": "无人无条件托底，延续本线核心判断"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 0,
+      "type": "前夫家底牌",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "周家不只是蛮横，也在系统化收缩女主行动空间"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 0,
+      "type": "父辈旧账",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第三卷至第四卷",
+      "payoffTiming": "slow-burn",
+      "notes": "与顾家线深度绑定，危险性明显上扬"
+    }
+  ]
+}

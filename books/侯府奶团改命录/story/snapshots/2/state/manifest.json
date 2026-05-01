@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 2,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H001:lastAdvancedChapter normalized from \"第2章：谢家正式执行“明修栈道、暗换路径”的赴宴方案，且在赴宴途中即遭试探，证明春宴危险已从预警进入实操碰撞\" to 0",
+    "H002:lastAdvancedChapter normalized from \"第2章：梦中“黑漆缺角木印”“账在水里”“北字”均在现实得到强化验证，查出受潮账册、缺角印痕及夹层半截“北仓”旧补记\" to 0",
+    "H003:lastAdvancedChapter normalized from \"第2章：秋棠供词仍可疑；采办房归档线浮出陈典、阿寿、元喜；锦福记与宁安侯府来人反复探问箱匣；内鬼范围由后宅扩至采办房与外部接头\" to 0",
+    "H004:lastAdvancedChapter normalized from \"第2章：秋棠仍在被问时下意识看周妈妈，但周妈妈本章执行命令稳妥、无明显遮掩，嫌疑暂未坐实\" to 0",
+    "H006:lastAdvancedChapter normalized from \"第2章：敌方连续通过宁安侯府、铺子、街面茶肆和路障等多层触点确认谢家带何物出门，并疑似在堵路混乱中夺取/转移纸张\" to 0",
+    "H007:lastAdvancedChapter normalized from \"第2章：谢承钧明确把谢绒绒的话当风险情报，夫妻联手设局；谢绒绒开始理解大人也会“下钩子”\" to 0",
+    "H009:lastAdvancedChapter normalized from \"第2章：“北仓”旧补记与谢承钧去借旧档相连，众人意识到被盯的可能不是宴席礼数，而是谢家手中可能递出去的旧账材料\" to 0",
+    "H010:lastAdvancedChapter normalized from \"第2章：半截“北仓”旧补记从采办房账册夹层中被抽出，显出旧年出入补记可能与谢家后续大案、旧年军需/仓储问题有关\" to 0"
+  ]
+}
