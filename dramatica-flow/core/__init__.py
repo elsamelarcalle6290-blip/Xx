@@ -1,3 +1,0 @@
-"""
-dramatica-flow core package
-"""
