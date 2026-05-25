@@ -1,0 +1,36 @@
+{
+  "chapter": 1,
+  "plannerInputs": [
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\author_intent.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\current_focus.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\outline\\story_frame.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\outline\\volume_map.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\chapter_summaries.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\book_rules.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\current_state.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\pending_hooks.md",
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "E:\\vs code\\inkos\\books\\前世情债\\story\\runtime\\chapter-0001.intent.md"
+  ],
+  "selectedSources": [
+    "runtime/chapter_memo",
+    "story/current_focus.md",
+    "story/audit_drift.md",
+    "story/current_state.md",
+    "story/outline/story_frame.md",
+    "story/outline/volume_map.md",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/pending_hooks.md#H005",
+    "story/pending_hooks.md#H006",
+    "story/pending_hooks.md#H001",
+    "story/pending_hooks.md#H002",
+    "story/pending_hooks.md#H003",
+    "story/pending_hooks.md#H004"
+  ],
+  "notes": []
+}

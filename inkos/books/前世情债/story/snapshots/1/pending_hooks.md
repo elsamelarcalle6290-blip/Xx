@@ -1,0 +1,8 @@
+- evidence: 事件 | open | 杂役处管事强塞给楚妄的女搭档身份 | immediate | 无
+- evidence: 悬念 | open | 封山杀局的幕后主使与逃脱 | immediate | 无
+- evidence: 悬念 | open | 苏清寒刺偏的半寸真相 | 这条线索 | 无
+- evidence: 物品 | open | 楚妄醒来时手里的黑铁戒指 | 这条线索 | 无
+- evidence: 设定 | open | 天道因果榜上迷雾笼罩的“零号债主” | endgame | [这条线索]
+- evidence: 关系 | open | 魔帝夜红莲缺失的一半记忆去向 | 这条线索 | 无
+- evidence: 悬念 | open | 楚妄胸口无法愈合的“黑莲贯穿伤” | immediate | 无
+- evidence: 物品 | open | 杂役腰牌上闪烁的“丙字追杀令” | immediate | 无
