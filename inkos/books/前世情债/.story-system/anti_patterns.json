@@ -1,0 +1,82 @@
+[
+  {
+    "text": "境界突破无代价",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-011"
+  },
+  {
+    "text": "闭关流水账",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-011"
+  },
+  {
+    "text": "因果规则失效",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-011"
+  },
+  {
+    "text": "物件名膨胀",
+    "source_table": "命名规则",
+    "source_id": "NR-077"
+  },
+  {
+    "text": "抽卡无代价",
+    "source_table": "金手指与设定",
+    "source_id": "SY-098"
+  },
+  {
+    "text": "神功随便用",
+    "source_table": "金手指与设定",
+    "source_id": "SY-098"
+  },
+  {
+    "text": "修行适配被忽略",
+    "source_table": "金手指与设定",
+    "source_id": "SY-098"
+  },
+  {
+    "text": "配角很多但功能重复",
+    "source_table": "人设与关系",
+    "source_id": "CH-060"
+  },
+  {
+    "text": "只负责捧哏或解释",
+    "source_table": "人设与关系",
+    "source_id": "CH-060"
+  },
+  {
+    "text": "出场不改变任何局面",
+    "source_table": "人设与关系",
+    "source_id": "CH-060"
+  },
+  {
+    "text": "两人互相说大道至理，旁人不停惊叹但读者不知道赢在哪里。",
+    "source_table": "场景写法",
+    "source_id": "SP-087"
+  },
+  {
+    "text": "外来体系无脑碾压",
+    "source_table": "桥段套路",
+    "source_id": "TR-107"
+  },
+  {
+    "text": "原作规则失效",
+    "source_table": "桥段套路",
+    "source_id": "TR-107"
+  },
+  {
+    "text": "读者熟悉感被抹掉",
+    "source_table": "桥段套路",
+    "source_id": "TR-107"
+  },
+  {
+    "text": "修炼变流水账",
+    "source_table": "裁决规则",
+    "source_id": "RS-002"
+  },
+  {
+    "text": "感悟靠顿悟标签",
+    "source_table": "裁决规则",
+    "source_id": "RS-002"
+  }
+]

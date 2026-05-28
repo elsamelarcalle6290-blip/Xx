@@ -1,0 +1,165 @@
+{
+    "project_info":  {
+                         "title":  "前世情债",
+                         "genre":  "修仙",
+                         "created_at":  "2026-05-28",
+                         "target_words":  600000,
+                         "target_chapters":  200,
+                         "golden_finger_name":  "黑莲死印与道果之核",
+                         "golden_finger_type":  "修仙",
+                         "golden_finger_style":  "代价型",
+                         "core_selling_points":  "因果清算,反修罗场,天道寄生,前世债主",
+                         "protagonist_structure":  "",
+                         "heroine_config":  "",
+                         "heroine_names":  "",
+                         "heroine_role":  "",
+                         "co_protagonists":  "",
+                         "co_protagonist_roles":  "",
+                         "antagonist_tiers":  "",
+                         "world_scale":  "诸宗并立的修真界",
+                         "factions":  "太上仙宗,魔渊,暗河,凡人地界",
+                         "power_system_type":  "因果修炼体系",
+                         "social_class":  "",
+                         "resource_distribution":  "",
+                         "gf_visibility":  "",
+                         "gf_irreversible_cost":  "",
+                         "target_reader":  "",
+                         "platform":  "inkos",
+                         "currency_system":  "",
+                         "currency_exchange":  "",
+                         "sect_hierarchy":  "外门-内门-长老-宗主",
+                         "cultivation_chain":  "炼气-筑基-金丹-元婴-化神-合体-大乘-飞升",
+                         "cultivation_subtiers":  ""
+                     },
+    "progress":  {
+                     "current_chapter":  30,
+                     "total_words":  62884,
+                     "last_updated":  "2026-05-28 20:37:53",
+                     "volumes_completed":  [
+
+                                           ],
+                     "current_volume":  3,
+                     "volumes_planned":  [
+                                             {
+                                                 "volume":  1,
+                                                 "title":  "杂役处的扫地僧与他的疯批前女友们",
+                                                 "chapters_range":  "1-6",
+                                                 "core_conflict":  "楚妄在太上仙宗与荒野追杀中脱身，逃往凡人地界"
+                                             },
+                                             {
+                                                 "volume":  2,
+                                                 "title":  "凡尘迷局",
+                                                 "chapters_range":  "7-24",
+                                                 "core_conflict":  "凡人小镇线索争夺与天道真相初现"
+                                             },
+                                             {
+                                                 "volume":  3,
+                                                 "title":  "仙宗的修罗场",
+                                                 "chapters_range":  "25-42",
+                                                 "core_conflict":  "身份暴露后的因果清算与阵营分裂"
+                                             },
+                                             {
+                                                 "volume":  4,
+                                                 "title":  "斩仙门",
+                                                 "chapters_range":  "43-60",
+                                                 "core_conflict":  "天道反扑与终局清算"
+                                             }
+                                         ]
+                 },
+    "protagonist_state":  {
+                              "name":  "楚妄",
+                              "power":  {
+                                            "realm":  "未明",
+                                            "layer":  30,
+                                            "bottleneck":  ""
+                                        },
+                              "location":  {
+                                               "current":  "无名村祠堂",
+                                               "last_chapter":  30
+                                           },
+                              "golden_finger":  {
+                                                    "name":  "黑莲死印与道果之核",
+                                                    "level":  1,
+                                                    "cooldown":  0,
+                                                    "skills":  [
+                                                                   "黑莲死印",
+                                                                   "道果之核"
+                                                               ]
+                                                },
+                              "attributes":  {
+
+                                             }
+                          },
+    "relationships":  {
+
+                      },
+    "disambiguation_warnings":  [
+
+                                ],
+    "disambiguation_pending":  [
+
+                               ],
+    "world_settings":  {
+                           "power_system":  [
+
+                                            ],
+                           "factions":  [
+                                            "太上仙宗",
+                                            "魔渊",
+                                            "暗河",
+                                            "凡人地界"
+                                        ],
+                           "locations":  [
+                                             "无名村祠堂",
+                                             "断账渡",
+                                             "青屏山",
+                                             "听风茶楼"
+                                         ]
+                       },
+    "plot_threads":  {
+                         "active_threads":  [
+                                                "楚妄在无名村查沈墨渊旧名与天道修正痕迹",
+                                                "苏清寒通过因果榜与雪符持续追名",
+                                                "夜红莲与赤焰继续追索道果之肉",
+                                                "顾青鸾与暗河线准备公开更多证据"
+                                            ],
+                         "foreshadowing":  [
+                                               {
+                                                   "content":  "沈墨渊是否真是天道棋子",
+                                                   "status":  "active",
+                                                   "urgency":  90
+                                               },
+                                               {
+                                                   "content":  "无名村牌位与楚妄旧名的关系",
+                                                   "status":  "active",
+                                                   "urgency":  88
+                                               },
+                                               {
+                                                   "content":  "顾青鸾师父被修正的真相",
+                                                   "status":  "active",
+                                                   "urgency":  76
+                                               },
+                                               {
+                                                   "content":  "赤焰救命恩人真相继续发酵",
+                                                   "status":  "active",
+                                                   "urgency":  68
+                                               }
+                                           ]
+                     },
+    "review_checkpoints":  [
+
+                           ],
+    "chapter_meta":  {
+
+                     },
+    "strand_tracker":  {
+                           "last_quest_chapter":  0,
+                           "last_fire_chapter":  0,
+                           "last_constellation_chapter":  0,
+                           "current_dominant":  "quest",
+                           "chapters_since_switch":  0,
+                           "history":  [
+
+                                       ]
+                       }
+}

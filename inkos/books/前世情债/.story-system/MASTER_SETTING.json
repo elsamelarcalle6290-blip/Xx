@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "schema_version": "story-system/v1",
+    "contract_type": "MASTER_SETTING",
+    "generator_version": "phase1",
+    "query": "修仙"
+  },
+  "route": {
+    "primary_genre": "传统修真",
+    "canonical_genre": "仙侠",
+    "route_source": "keyword_or_alias_match",
+    "genre_filter": "仙侠",
+    "recommended_base_tables": [
+      "命名规则",
+      "金手指与设定",
+      "人设与关系"
+    ],
+    "recommended_dynamic_tables": [
+      "爽点与节奏",
+      "场景写法",
+      "桥段套路"
+    ]
+  },
+  "master_constraints": {
+    "core_tone": "因果约束下的长期升级",
+    "pacing_strategy": "修炼段短写斗法段强兑现"
+  },
+  "base_context": [
+    {
+      "编号": "TR-107",
+      "适用技能": "write|plan",
+      "分类": "桥段",
+      "层级": "知识补充",
+      "关键词": "衍生体系碰撞|外来能力|原作规则校验|画风磨合",
+      "意图与同义词": "同人体系碰撞怎么写|修仙进霍格沃茨怎么写|外来能力怎么不违和",
+      "适用题材": "衍生|奇幻|仙侠",
+      "大模型指令": "体系碰撞桥段要让外来能力先接受原作规则检验，不能一来就碾压世界。",
+      "核心摘要": "跨体系同人的爽点来自互相解释和互相限制。",
+      "详细展开": "先定义两套体系的差异，再安排一次小场景验证兼容性与冲突点。",
+      "桥段名称": "跨体系小试",
+      "前置铺垫": "原作体系规则清晰|主角带来外来能力|旁观者有专业判断",
+      "核心爽点": "新鲜感|规则互证|后续路线打开",
+      "转折设计": "让外来法门解决一个原作小难题，同时暴露一个严重不兼容风险",
+      "反套路变种": "后续可以让两套体系互补而不是谁取代谁",
+      "毒点": "外来体系无脑碾压|原作规则失效|读者熟悉感被抹掉",
+      "_table": "桥段套路",
+      "_priority_rank": 1,
+      "_reasoning_rule": "仙侠",
+      "_chapter_keyword_score": 0,
+      "_combined_rank_score": 0.266667
+    },
+    {
+      "编号": "SP-087",
+      "适用技能": "write|plan",
+      "分类": "仙侠",
+      "层级": "知识补充",
+      "关键词": "论道场景|道心交锋|宗门旁听|异象克制",
+      "意图与同义词": "仙侠论道场景怎么写|宗门辩经怎么写|道心交锋怎么落场",
+      "适用题材": "仙侠|玄幻",
+      "大模型指令": "论道场景要写听众反应、对手立论和主角破题，少堆玄词空话。",
+      "核心摘要": "文斗场面的张力来自观点击中修行根基。",
+      "详细展开": "适合用蒲团、钟声、香火、旁听弟子和短暂异象控制节奏。",
+      "场景类型": "仙侠场景",
+      "模式名称": "道心交锋文斗场",
+      "说明": "适合宗门论道、师徒分歧、佛道辩经和心境突破。",
+      "示例片段": "殿中钟声无风自响时，原本低笑的弟子忽然都收了声。",
+      "毒点": "两人互相说大道至理，旁人不停惊叹但读者不知道赢在哪里。",
+      "_table": "场景写法",
+      "_priority_rank": 2,
+      "_reasoning_rule": "仙侠",
+      "_chapter_keyword_score": 0,
+      "_combined_rank_score": 0.133333
+    }
+  ],
+  "source_trace": [
+    {
+      "table": "题材与调性推理",
+      "id": "GR-011",
+      "reason": "keyword_or_alias_match"
+    },
+    {
+      "table": "桥段套路",
+      "id": "TR-107",
+      "summary": "跨体系同人的爽点来自互相解释和互相限制。",
+      "reasoning_rule": "仙侠",
+      "priority_rank": 1,
+      "chapter_keyword_score": 0,
+      "combined_rank_score": 0.266667,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    },
+    {
+      "table": "场景写法",
+      "id": "SP-087",
+      "summary": "文斗场面的张力来自观点击中修行根基。",
+      "reasoning_rule": "仙侠",
+      "priority_rank": 2,
+      "chapter_keyword_score": 0,
+      "combined_rank_score": 0.133333,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    },
+    {
+      "table": "命名规则",
+      "id": "NR-077",
+      "summary": "丹药法宝名最好让读者知道它大概做什么。",
+      "reasoning_rule": "仙侠",
+      "priority_rank": 999,
+      "chapter_keyword_score": 0,
+      "combined_rank_score": 0.0,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    },
+    {
+      "table": "金手指与设定",
+      "id": "SY-098",
+      "summary": "修仙随机机缘必须和道途匹配才有长期价值。",
+      "reasoning_rule": "仙侠",
+      "priority_rank": 999,
+      "chapter_keyword_score": 0,
+      "combined_rank_score": 0.0,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    },
+    {
+      "table": "人设与关系",
+      "id": "CH-060",
+      "summary": "有效配角至少承担信息、情绪、冲突、镜像或执行中的一种明确功能。",
+      "reasoning_rule": "仙侠",
+      "priority_rank": 999,
+      "chapter_keyword_score": 0,
+      "combined_rank_score": 0.0,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    }
+  ],
+  "override_policy": {
+    "locked": [
+      "route.primary_genre",
+      "master_constraints.core_tone"
+    ],
+    "append_only": [
+      "anti_patterns"
+    ],
+    "override_allowed": []
+  }
+}

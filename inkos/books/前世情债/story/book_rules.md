@@ -1,3 +1,11 @@
-# 本书规则（兼容指针——已废弃）
+# 本书规则（兼容指针）
 
-> 本文件仅为外部读取保留。权威 YAML frontmatter（protagonist / prohibitions / genreLock / ...）已迁移至 outline/story_frame.md 顶部。readBookRules() 优先读那里，只有 Phase 5 cleanup #3 之前的老书才会回退到本文件。
+> 本文件保留为兼容入口，不再指向旧的 `story/outline/story_frame.md`。
+> 当前《前世情债》的有效规则来源已经统一迁入：
+> - `设定集/写作铁律.md`
+> - `设定集/世界观.md`
+> - `设定集/力量体系.md`
+> - `设定集/反派设计.md`
+> - `大纲/总纲.md`
+
+如果有外部工具仍读取本文件，请把它视为“新规则文件索引”，不要再回退到旧 `story/outline` 目录。
