@@ -1,3 +1,3 @@
 # 当前状态
 
-> 建书时占位。运行时每章之后由 consolidator 追加最新状态。每个角色的初始状态详见 roles/*.当前现状；承重的初始世界设定见 pending_hooks 里 startChapter=0 的行。
+> 这是建书时生成的初始快照，只作历史留档；当前续写状态以 `story/current_state.md`、`.webnovel/state.json` 和 `设定集/` 为准。

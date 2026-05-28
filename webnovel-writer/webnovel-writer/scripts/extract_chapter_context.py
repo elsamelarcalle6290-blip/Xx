@@ -128,7 +128,15 @@ def extract_state_summary(project_root: Path) -> str:
         location = ps.get("location", "?")
         if isinstance(location, dict):
             location = location.get("current") or location.get("name") or str(location)
-        summary_parts.append(f"**主角实力**: {power.get('realm', '?')} {power.get('layer', '?')}层")
+        realm = power.get("realm") or "?"
+        layer = power.get("layer")
+        if isinstance(layer, int) and layer > 0:
+            power_label = f"{realm} {layer}层"
+        elif isinstance(layer, str) and layer.strip():
+            power_label = f"{realm} {layer.strip()}"
+        else:
+            power_label = str(realm)
+        summary_parts.append(f"**主角实力**: {power_label}")
         summary_parts.append(f"**当前位置**: {location}")
         golden_finger = ps.get("golden_finger", {})
         summary_parts.append(
