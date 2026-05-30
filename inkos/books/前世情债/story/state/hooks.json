@@ -1,76 +1,58 @@
 {
   "hooks": [
     {
-      "hookId": "hook-1",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 事件 | open | 杂役处管事强塞给楚妄的女搭档身份 | immediate | 无"
+      "hookId": "H039",
+      "startChapter": 26,
+      "type": "追踪",
+      "status": "active",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "无名村之后仍会推动苏清寒追名与霜华抉择",
+      "notes": "苏清寒雪符可沿名字追踪楚妄；第30章被无名牌位吞噬，但追名压力没有结束"
     },
     {
-      "hookId": "hook-2",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 悬念 | open | 封山杀局的幕后主使与逃脱 | immediate | 无"
+      "hookId": "H040",
+      "startChapter": 27,
+      "type": "地点",
+      "status": "partial",
+      "lastAdvancedChapter": 27,
+      "expectedPayoff": "作为死账混乱规则的样本，后续可对照无名村名字规则",
+      "notes": "断账渡死账混乱，可短暂搅乱名字追踪"
     },
     {
-      "hookId": "hook-3",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 悬念 | open | 苏清寒刺偏的半寸真相 | 这条线索 | 无"
+      "hookId": "H041",
+      "startChapter": 28,
+      "type": "人物",
+      "status": "active",
+      "lastAdvancedChapter": 28,
+      "expectedPayoff": "第33-34章揭开赤焰救命恩人真相",
+      "notes": "赤焰前世救命恩人其实是楚妄，当前只写熟悉感和忠诚动摇"
     },
     {
-      "hookId": "hook-4",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 物品 | open | 楚妄醒来时手里的黑铁戒指 | 这条线索 | 无"
+      "hookId": "H042",
+      "startChapter": 29,
+      "type": "人物",
+      "status": "active",
+      "lastAdvancedChapter": 29,
+      "expectedPayoff": "第31章霜华公开违逆苏清寒",
+      "notes": "霜华暗中延缓雪符，为楚妄争取一息"
     },
     {
-      "hookId": "hook-5",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 设定 | open | 天道因果榜上迷雾笼罩的“零号债主” | endgame | [这条线索]"
+      "hookId": "H043",
+      "startChapter": 30,
+      "type": "地点",
+      "status": "active",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "揭示无名村与天道修正机制、沈墨渊旧名的关系",
+      "notes": "无名村被天道修正过，能吞噬名字也会显露旧痕"
     },
     {
-      "hookId": "hook-6",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 关系 | open | 魔帝夜红莲缺失的一半记忆去向 | 这条线索 | 无"
-    },
-    {
-      "hookId": "hook-7",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 悬念 | open | 楚妄胸口无法愈合的“黑莲贯穿伤” | immediate | 无"
-    },
-    {
-      "hookId": "hook-8",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "evidence: 物品 | open | 杂役腰牌上闪烁的“丙字追杀令” | immediate | 无"
+      "hookId": "H044",
+      "startChapter": 30,
+      "type": "人物",
+      "status": "active",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "第35章沈墨渊被天道激活，第37章反抗",
+      "notes": "沈墨渊旧名被无名村祠堂保存，警告“若他护你，先斩其名”"
     }
   ]
 }
