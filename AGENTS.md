@@ -4,20 +4,21 @@ This workspace contains local writing prompts that should be treated as the prim
 
 ## Default behavior
 
-- When the user asks for article rewriting, news commentary writing, controversy-style essays, outline generation, or long-form self-media content creation, first check the prompt library under `E:\Xx\文章记忆库`.
+- When the user asks for article rewriting, news commentary writing, platform-style self-media writing, controversy-style essays, or outline generation, first check the local article prompt root under `E:\Xx\文章`.
 - Do not ignore those local prompt files when they match the user's request.
-- Do not treat the files in `文章记忆库` as background reference only. For matching writing tasks, actively follow their structure and constraints.
+- Do not treat the files under `E:\Xx\文章` as background reference only. For matching writing tasks, actively follow their structure and constraints.
 - If multiple prompt files could apply, choose the closest fit based on the user's task and say which prompt is being followed in a short sentence.
 
 ## Prompt routing
 
-- First read `E:\Xx\文章记忆库\00_文章任务路由总则.md` and `E:\Xx\文章记忆库\01_文章排版输出规范.md` for article-writing tasks, then choose the closest specific prompt.
-- Use `E:\Xx\文章记忆库\3000字总分式爆款改写提示词.md` as the first-choice prompt when the user provides source material and asks for rewriting, original rewriting, viral/self-media long-form writing, 3000-word articles, clear timelines, plain-language style, or low-AI-flavor Chinese prose.
-- For time-sensitive topics, latest news, policy/data/ranking/personnel/company/international updates, still verify current public information before writing. After verification, keep `E:\Xx\文章记忆库\3000字总分式爆款改写提示词.md` as the first-choice writing prompt when the task is source-material rewriting or long-form self-media writing. Do not use a standalone verification prompt.
-- Use `E:\Xx\文章记忆库\时事文章原创改写总提示词.md` for requests to rewrite or newly write a current-events article from source material, especially when the user wants a long-form article, clear timeline, strong originality, and colloquial Chinese.
-- Use `E:\Xx\文章记忆库\二段式争议文章写作总提示词.md` for event-driven controversy articles where the source has a clear incident, parties, conflict, process, result, or public reaction.
-- Use `E:\Xx\文章记忆库\二段式争议论说文写作提示词.md` for viewpoint-driven controversy essays focused on a public issue, value judgment, social phenomenon, or argumentative discussion.
-- Use `E:\Xx\文章记忆库\今日头条爆款改写提示词.md` when the user explicitly wants to analyze a Toutiao-style viral article and rewrite it with lower similarity while preserving the core idea.
+- Use `E:\Xx\文章\今日头条\微头条爆款提示词.md` for requests to rewrite, newly write, analyze, or batch-produce **今日头条微头条** content from source material, especially when the user wants strong first-screen hooks, comment-driving endings, and strict source fidelity.
+- When writing 今日头条微头条, also consult `E:\Xx\文章\今日头条\微头条标题与首句句式库.md` as the default opening/title support file, but never let the sentence patterns override the source material's actual meaning.
+- For batch 今日头条微头条 work where the user provides a document containing many source links or candidate articles, automatically run the screening workflow in `E:\Xx\文章\今日头条\100篇筛选与50篇微头条改写流程.md` even if the user does not explicitly say “开始”“按流程来” or “先筛再写”.
+- For Baijiahao finance rewriting and batch source-selection work, prefer the local workflow under `E:\Xx\文章\百家号`.
+- Use `E:\Xx\文章\百家号\百家号财经爆款提示词-贴源稳妥版.md` for百家号财经改写、财经爆款分析、贴源稳妥改写、财经平台化写作。
+- When writing Baijiahao finance content, also consult `E:\Xx\文章\百家号\百家号财经文章排版规范.md` as the default formatting reference.
+- If the user provides a document containing many source articles or raw materials for Baijiahao finance writing, automatically run the screening workflow in `E:\Xx\文章\百家号\100篇筛选与15篇写作流程.md` even if the user does not add an extra instruction like “start” or “按流程来”.
+- If an article-writing request does not clearly match the existing 今日头条 or 百家号 prompt packs under `E:\Xx\文章`, do not pretend a matching local article prompt exists; use the best general writing workflow instead.
 
 ## Execution rules
 
@@ -54,6 +55,16 @@ This workspace contains local writing prompts that should be treated as the prim
   - “做封面图”, “生成封面” -> `baoyu-cover-image`
   - “生成配图”, “文章配图”, “插图” -> `baoyu-article-illustrator` or `baoyu-image-gen`, choosing the closer fit
   - “markdown转html”, “排版成html” -> `baoyu-markdown-to-html`
+  - “做PPT”, “做幻灯片”, “生成演示文稿”, “做汇报PPT”, “把这篇内容做成PPT” -> `baoyu-slide-deck`
+  - “画图”, “画流程图”, “画架构图”, “画关系图”, “做结构图” -> `baoyu-diagram`
+  - “做信息图”, “生成信息图”, “做可视化长图”, “把这组信息可视化” -> `baoyu-infographic`
 - For article or novel tasks, keep the existing prompt-library workflow as the primary writing path. Use Baoyu skills as the follow-up execution layer for translation, image generation, HTML conversion, and publishing.
 - If the user asks to “发小红书” but only materials generation is available, use the related Xiaohongshu asset skill to prepare publishable assets and clearly state that the current skill prepares the content/images rather than directly publishing to the Xiaohongshu platform.
 - If a matched Baoyu skill requires first-time setup, browser login, Bun, Chrome, API key, or account metadata, perform or guide that setup as part of the workflow instead of asking the user to manually find the skill.
+
+## Visual and Code Routing
+
+- When the user asks in plain language to make a formal `.pptx`, a structured report deck, or a file-first presentation deliverable, inspect the local reference skill under `E:\Xx\awesome-codex-skills\paperjsx` and prefer it when the request is explicitly about file generation rather than slide-image ideation.
+- When the user asks to “换主题”, “统一风格”, “换字体配色”, or otherwise restyle a deck or document, inspect the local reference skill under `E:\Xx\awesome-codex-skills\theme-factory` and use its theme workflow as the styling reference.
+- When the user asks to analyze a codebase, find callers/callees, explain a module flow, locate a feature entrypoint, or estimate impact of a change, prefer `CodeGraph` as the first analysis layer whenever the relevant project has an index or can be indexed locally.
+- Treat `E:\Xx\一句话调用入口` as the user-facing Chinese navigation layer for these workflows. When a request matches one of those entry docs, follow that route automatically instead of asking the user to name the underlying skill or repo.

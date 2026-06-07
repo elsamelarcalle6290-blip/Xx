@@ -1,0 +1,15 @@
+name = "xx-writer-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "http://localhost:5173"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "xx-writer-db"
+database_id = "54557318-36e6-44c1-8b3d-188165e19b99"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "6acfefdac4c24cf68a75430571af35ad"
